@@ -1,0 +1,218 @@
+---
+title: "Default Résumé"
+author: Ameek Bhalla
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: False
+uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+<!-- ![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+* <i class="fa fa-envelope"></i> ameekbhalla@gmail.com
+<!-- * <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](linkedin.com/in/ameekbhalla) -->
+<!-- * <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla) -->
+* <i class="fa fa-phone"></i> +91 9811550934
+
+
+<!-- <i class="fa fa-laptop-code"></i> Data Science Skills -->
+Data Science Skills {data-icon=laptop}
+--------------------------------------------------------------------------------
+<!-- | | | | -->
+<!-- |-|-|-| -->
+<!-- |__Languages__| R, Markdown, Bash | -->
+<!-- |__Regression__| GLMM |   -->
+<!-- |__Decision trees__| random forest, bagging |   -->
+<!-- |__Resampling__| cross validation, bootstrap |   -->
+<!-- |__Clustering__| k-means, hierarchical |   -->
+<!-- |__Dimensionality reduction__| PCA, MDS |   -->
+
+* __Languages__
+  + R, Markdown, Bash
+* __Regression__
+  + GLMM
+* __Decision trees__
+  + random forest, bagging
+* __Resampling__
+  + cross validation, bootstrapping 
+* __Clustering__
+  + k-means, hierarchical
+* __Dimensionality reduction__
+  + PCA, MDS
+
+<!-- <i class="fa fa-microscope"></i> Lab Research Skills -->
+Lab Research Skills {data-icon=flask}
+--------------------------------------------------------------------------------
+<!-- | | | | -->
+<!-- |-|-|-| -->
+<!-- |__Experimental design__| fractional factorials, pseudoreplication, hypothesis tests | -->
+<!-- |__Genomics__| microarray, RNAi | -->
+<!-- |__Molecular biology__| cloning, qPCR, western blotting | -->
+<!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
+
+* __Experimental design__
+  + fractional factorials, pseudoreplication, hypothesis tests
+* __Genomics__
+  + microarray, RNAi
+* __Molecular biology__
+  + cloning, qPCR, western blotting
+* __Drosophila genetics__
+  + GAL4-UAS system, genetic crossing
+
+<!-- Interests {data-icon=pencil-ruler} -->
+<!-- -------------------------------------------------------------------------------- -->
+<!-- __Popular science__: evolutionary biology, personality psychology -->
+<!-- __Philosophy__: critical rationalism -->
+<!-- __Communication__: scientific writing, data visualization -->
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!-- Résumé  -->
+Written in <i class="fab fa-r-project"></i> language at [github.com/ameekbhalla/cv](github.com/ameekbhalla/cv)  
+`r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Ameek Bhalla {#title}
+--------------------------------------------------------------------------------
+
+<!-- ### Currently searching for a PhD student position -->
+
+<!-- Please note that this is a *real* resume, and I'm really looking for a PhD -->
+<!-- student position at the moment. I made this resume because Yihui asked me -->
+<!-- if I'd like to test the __pagedown__ package with my resume. If you are -->
+<!-- interested in my background and skills, please feel free to contact me. -->
+
+
+Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Doctoral Researcher
+
+Institute of Genomics & Integrative Biology
+
+New Delhi, India
+
+Present - 2015
+
+* Analysis of high-dimensional data
+* Functional genomics
+
+### Content Editor
+
+Cureus Inc.
+
+Palo Alto
+(remote)
+
+Present - 2020
+
+* Editorial review of medical articles
+
+### Editor
+
+Cactus Communications Pvt. Ltd.
+
+Mumbai (remote)
+
+2020 - 2017
+
+* Academic editing for life-science journals
+
+
+### Graduate Research Assistant
+
+Institute of Genomics & Integrative Biology
+
+New Delhi, India
+
+2015 - 2012
+
+* Statistical inference for large-scale assays
+* Modeling diabetes in Drosophila
+
+### Graduate Research Assistant
+
+Indian Institute of Science
+
+Bangalore, India
+
+2012 - 2007
+
+* Expression of human genes in Drosophila
+* Modeling Alzheimer's disease in Drosophila
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Institute of Genomics & Integrative Biology
+
+PhD candidate, Genomics
+
+New Delhi, India
+
+Present - 2015
+
+### Punjab Technical University
+
+MSc, Biotechnology
+
+New Delhi, India
+
+2013
+
+### University of Delhi
+
+PG diploma, Biochemical Technology
+
+New Delhi, India
+
+2007
+
+### University of Delhi
+
+BSc (honors), Biomedical Sciences
+
+New Delhi, India
+
+2006 - 2003
+
+
+Peer-reviewed Publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+###
+[Paternal inheritance of diet induced metabolic traits correlates <br /> with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)  
+Teltumbade M, __Bhalla A__, Sharma A. Genomics, 112(1):567-573.
+
+N/A
+
+2020
+
+
+
+### 
+[Transgenerational inheritance of cold temperature response in Drosophila](https://doi.org/10.1002/1873-3468.13343)  
+Karunakar P, __Bhalla A__, Sharma A. FEBS Letters, 593(6):594-600.
+
+N/A
+
+2019
+
