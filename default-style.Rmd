@@ -21,7 +21,7 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 * <i class="fa fa-envelope"></i> ameekbhalla@gmail.com
-<!-- * <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](linkedin.com/in/ameekbhalla) -->
+<!-- * <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla) -->
 <!-- * <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla) -->
 * <i class="fa fa-phone"></i> +91 9811550934
 
@@ -81,7 +81,7 @@ Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 <!-- Résumé  -->
-Written in <i class="fab fa-r-project"></i> language at [github.com/ameekbhalla/cv](github.com/ameekbhalla/cv)  
+Written in <i class="fab fa-r-project"></i> language at [github.com/ameekbhalla/cv](https://github.com/ameekbhalla/cv)  
 `r Sys.Date()`.
 
 
