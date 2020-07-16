@@ -1,4 +1,4 @@
-This repository is meant to host résumés made with the R package [pagedown](https://github.com/rstudio/pagedown).
+This repository is meant to host multiple versions of my résumés made with the R package [pagedown](https://github.com/rstudio/pagedown).
 
 There should be three versions at the completion of this project:
 1. A résumé named 'default-style' made with minimal changes to the template provided by pagedown—<br />cluttered and tedious to read.
