@@ -39,9 +39,9 @@ Data Science Skills {data-icon=laptop}
 <!-- |__Dimensionality reduction__| PCA, MDS |   -->
 
 * __Languages__
-  + R, Markdown, Bash
+  + R, Markdown
 * __Regression__
-  + GLMM
+  + GLM, GLMM
 * __Decision trees__
   + random forest, bagging
 * __Resampling__
