@@ -74,14 +74,15 @@ Lab Research Skills {data-icon=flask}
 <!-- -------------------------------------------------------------------------------- -->
 <!-- __Popular science__: evolutionary biology, personality psychology -->
 <!-- __Philosophy__: critical rationalism -->
-<!-- __Communication__: scientific writing, data visualization -->
+<!-- __Communication__: clear writing, data visualization -->
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 <!-- Résumé  -->
-Written in <i class="fab fa-r-project"></i> language at [github.com/ameekbhalla/cv](https://github.com/ameekbhalla/cv)  
+Written in <i class="fab fa-r-project"></i> language.  
+[Source code on GitHub](https://github.com/ameekbhalla/cv).   
 `r Sys.Date()`.
 
 
