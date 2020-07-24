@@ -1,0 +1,209 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% line spacing
+\usepackage{setspace}
+
+% moderncv themes
+\moderncvstyle{banking}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvcolor{grey}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex or lualatex, replace by the encoding you are using
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Ameek}{Bhalla}
+%\title{Resumé title}                               % optional, remove / comment the line if not wanted
+%\address{street and number}{postcode city}{country}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+\phone[mobile]{+91~9811550934}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
+%\phone[fixed]{+2~(345)~678~901}
+%\phone[fax]{+3~(456)~789~012}
+\email{ameekbhalla@gmail.com}                               % optional, remove / comment the line if not wanted
+%\homepage{www.johndoe.com}                         % optional, remove / comment the line if not wanted
+%\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
+%\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
+\social[github]{ameekbhalla}                              % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
+%   to show numerical labels in the bibliography (default is to show no labels)
+\makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
+%   to redefine the bibliography heading string ("Publications")
+%\renewcommand{\refname}{Articles}
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+
+%-----       resume       ---------------------------------------------------------
+
+\makecvtitle
+
+%--------------------------------------------------------------
+
+\section{Education}
+\begin{doublespace}
+
+\begin{singlespace}
+\cventry{}{PhD, Genomics}{CSIR-Institute of Genomics and Integrative Biology, India}{2015--Present}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{MSc, Biotechnology}{Punjab Technical University, India}{2013}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{PG diploma, Biochemical Technology}{University of Delhi, India}{2007}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{BSc (honors), Biomedical Sciences}{University of Delhi, India}{2003--2006}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\end{doublespace}
+
+%--------------------------------------------------------------
+
+%\section{Master thesis}
+%\cvitem{title}{\emph{Title}}
+%\cvitem{supervisors}{Supervisors}
+%\cvitem{description}{Short thesis abstract}
+
+%--------------------------------------------------------------
+\section{Experience}
+\begin{doublespace}
+
+\begin{singlespace}
+\cventry{}{Doctoral Researcher}{CSIR-Institute of Genomics and Integrative Biology, India}{2015--Present}{}{
+\begin{itemize}%
+\item Analysis of high-dimensional data
+\item Functional genomics
+\end{itemize}}
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Content Editor}{Cureus Inc., USA (Remote)}{Present}{}{
+\begin{itemize}%
+\item Editorial review of medical articles
+\end{itemize}}
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Language Editor}{Cactus Communications Pvt. Ltd., India (Remote)}{2017--2020}{}{
+\begin{itemize}%
+\item Academic editing for life-science journals
+\end{itemize}}
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Graduate Research Assistant}{CSIR-Institute of Genomics and Integrative Biology, India}{2012--2015}{}{
+\begin{itemize}%
+\item Statistical inference for large-scale assays
+\item Modeling diabetes in Drosophila
+\end{itemize}}
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Graduate Research Assistant}{Indian Institute of Science, India}{2007--2007}{}{
+\begin{itemize}%
+\item Expression of human genes in Drosophila
+\item Modeling Alzheimer's disease in Drosophila
+\end{itemize}}
+\end{singlespace}
+
+\end{doublespace}
+
+%--------------------------------------------------------------
+\section{Data Science Skills}
+\begin{doublespace}
+
+\begin{singlespace}
+\cventry{}{R, Markdown, Bash}{Languages}{}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{GLM, GLMM}{Regression}{}{}{}
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Random forest, bagging}{Decision trees}{}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Cross-validation, bootstrapping }{Resampling}{}{}{}
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Hierarchical, k-means}{Clustering}{}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{PCA, MDS}{Dimensionality reduction}{}{}{}
+\end{singlespace}
+
+\end{doublespace}
+
+%--------------------------------------------------------------
+\section{Lab Research Skills}
+\begin{doublespace}
+
+\begin{singlespace}
+\cventry{}{Fractional factorials designs, pseudoreplication, hypothesis tests}{Experimental design}{}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Microarray, RNAi}{Genomics}{}{}{}
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{Cloning, qPCR, western blotting}{Molecular Biology}{}{}{}  % arguments 3 to 6 can be left empty
+\end{singlespace}
+
+\begin{singlespace}
+\cventry{}{GAL4-UAS system, genetic crossing}{Drosophila genetics}{}{}{}
+\end{singlespace}
+
+\end{doublespace}
+
+%--------------------------------------------------------------
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+\end{document}
+
+
+%% end of file `template.tex'.
