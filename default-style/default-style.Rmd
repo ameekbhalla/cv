@@ -4,9 +4,11 @@ author: Ameek Bhalla
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: False
-uncomment this line to produce HTML and PDF in RStudio:
+    css: ['css/custom.css']
+# set following to true for a self-contained HTML but it'll take longer to render
+    self_contained: TRUE
+    
+# uncomment following line to produce PDF:
 knit: pagedown::chrome_print
 ---
 
@@ -19,11 +21,11 @@ Aside
 
 Contact {#contact}
 --------------------------------------------------------------------------------
-
+* <i class="fa fa-map-marked-alt"></i> New Delhi, India
 * <i class="fa fa-envelope"></i> ameekbhalla@gmail.com
-<!-- * <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla) -->
-<!-- * <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla) -->
-* <i class="fa fa-phone"></i> +91 9811550934
+* <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla)
+* <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla)
+<!-- * <i class="fa fa-phone"></i> +91 9811550934 -->
 
 
 <!-- <i class="fa fa-laptop-code"></i> Data Science Skills -->
@@ -62,7 +64,7 @@ Lab Research Skills {data-icon=flask}
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
 * __Experimental design__
-  + fractional factorials, pseudoreplication, hypothesis tests
+  + fractional factorials, repeated measures, meta-analyses
 * __Genomics__
   + microarray, RNAi
 * __Molecular biology__
@@ -83,7 +85,7 @@ Disclaimer {#disclaimer}
 <!-- Résumé  -->
 Written in <i class="fab fa-r-project"></i> language  
 [Source code on GitHub](https://github.com/ameekbhalla/cv)   
-`r Sys.Date()`
+Last updated `r Sys.Date()`
 
 
 Main
@@ -92,30 +94,56 @@ Main
 Ameek Bhalla {#title}
 --------------------------------------------------------------------------------
 
-<!-- ### Currently searching for a PhD student position -->
-
-<!-- Please note that this is a *real* resume, and I'm really looking for a PhD -->
-<!-- student position at the moment. I made this resume because Yihui asked me -->
-<!-- if I'd like to test the __pagedown__ package with my resume. If you are -->
-<!-- interested in my background and skills, please feel free to contact me. -->
+<!-- I am interested in developing predictive applications in the fields of personalized medicine, biotechnology, and pharmaceuticals. -->
+<!-- I have been researching the inheritance of complex disorders like diabetes,heart disease, and Alzheimer’s disease for 14 years. -->
+<!-- My expertise lies in designing experiments that produce decisive results, selecting machine learning tools that balance rigor with feasibility, creating data visualizations that can be understood at the first glance, and composing clearly worded reports that avoid jargon.  -->
+<!-- The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. -->
 
 
 Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Doctoral Researcher
+### Senior Research Fellow (Genomics)
 
 Institute of Genomics & Integrative Biology
 
 New Delhi, India
 
-Present - 2015
+Present - 2017
 
 <!-- * Designed quantitative genetic experiments experiments and statistical models (to infer the heritability of) (to quantify the variation in) complex disorders from data encompassing multiple treatment groups, time points, replicates, and 20000 genes   -->
 
-* Designed quantitative genetic experiments and statistical models to infer the heritability of complex disorders from 480,000 data points
+* Designed, executed, and analyzed quantitative genetic experiments, containing 480,000 data points, to infer the heritability of metabolic traits
 
-### Medical Science Editor
+### Graduate Research Fellow (Computational Biology)
+
+Institute of Genomics & Integrative Biology
+
+New Delhi, India
+
+2017 - 2015
+
+<!-- * Implemented mixed-effects models to handle correlated data and reduced false positives -->
+* Implemented mixed models to handle nested data, increasing statistical power by 1000%
+
+<!-- * Scaled up generation of biological replicates and processing of metabolic assays, increasing sample size by 1000% -->
+* Invented techniques for mass production and processing of biological replicates, resulting in the publication of two research articles
+
+### Project Manager (Diabetes Genetics)
+
+Institute of Genomics & Integrative Biology
+
+New Delhi, India
+
+2015 - 2012
+
+<!-- * Budgeted, modernized the equipment, streamlined the workflow, troubleshot and trained 10+ members, while first overhauling the lab and then leading it -->
+* Operationalized a government project (CSIR, India) by managing procurement, troubleshooting protocols, and training five new colleagues
+
+<!-- * Evaluated the function of 50 candidate genes for diabetes by performing RNA interference with 200 transgenic constructs in Drosophila (CSIR-sponsored project) -->
+* Evaluated 50 candidate genes for diabetes using 200 transgenic constructs in Drosophila
+
+### Freelance Content Editor (Medicine)
 
 Cureus Inc.
 
@@ -124,11 +152,15 @@ Palo Alto
 
 Present - 2020
 
-<!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the medical journal Cureus to make them accessible to lay readers -->
+<!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the rapid-publication medical journal Cureus to make them popular in the medical community-->
 
-* Critiqued and improved the language, data visuals, and statistical interpretability of over 100 manuscripts for the medical journal Cureus
+<!-- * Critiqued the statistics, data visuals, and semantics of 150 manuscripts, along with an international team, while scoring a 4.9/5 from physician authors -->
 
-### Molecular Biology Editor
+Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team
+
+<!-- ### Subject Editor (Molecular Biology) -->
+
+### Freelance Copy Editor (Molecular Biology)
 
 Cactus Communications Pvt. Ltd.
 
@@ -138,26 +170,10 @@ Mumbai (remote)
 
 <!-- * Boosted the readability of 300 academic manuscripts written by non-native English speakers (from more than 10 developing countries), enhancing their acceptance by life science journals -->
 <!-- journals of genetics, molecular biology, and biochemistry  -->
-* Boosted the readability of 300 manuscripts, from more than 10 developing countries, enhancing their acceptance by life science journals
+* Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
 
-### Graduate Research Assistant
 
-Institute of Genomics & Integrative Biology
-
-New Delhi, India
-
-2017 - 2012
-
-<!-- * Implemented mixed-effects models to handle correlated data and scaled-up collection of biological replicates, leading to an increase in the sample size by 1000% -->
-* Implemented models to handle correlated data and scaled-up collection of biological replicates, increasing statistical power by 1000%
-
-<!-- * Reduced false positives by implementing mixed-effects models to handle correlated data  -->
-<!-- * Scaled-up generation of biological replicates and processing of metabolic assays, increasing sample size by 1000% -->
-
-<!-- * Evaluated the function of 50 candidate genes for diabetes by performing RNA interference with 200 transgenic constructs in Drosophila (CSIR-sponsored project) -->
-* Evaluated the function of 50 candidate genes for diabetes with 200 transgenic constructs in Drosophila (CSIR-sponsored project)
-
-### Graduate Research Assistant
+### Research Assistant (Alzheimer Genetics)
 
 Indian Institute of Science
 
@@ -169,7 +185,7 @@ Bangalore, India
 
 <!-- * Designed classical-conditioning assays of long-term memory to evaluate candidate genes for Alzheimer's disease in Drosophila  -->
 
-* Designed classical-conditioning assays for automated assessment of long-term memory in Drosophila 
+* Pioneered a low-cost technique for measuring long-term memory of classical conditioning in Drosophila
 
 
 Education {data-icon=graduation-cap}
@@ -177,11 +193,11 @@ Education {data-icon=graduation-cap}
 
 ### Institute of Genomics & Integrative Biology
 
-PhD candidate, Computational Biology/Genomics
+Ph.D. candidate, Computational Biology/Genomics
 
 New Delhi, India
 
-Present - 2015
+2021 - 2015
 
 <!-- ### Punjab Technical University -->
 
@@ -213,10 +229,10 @@ Peer-reviewed Publications {data-icon=book}
 
 ###
 <!-- A line break was introduced in the following title to force "with" into the next line  -->
-<!-- [Paternal inheritance of diet induced metabolic traits correlates <br /> with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)   -->
-<!-- Teltumbade M, __Bhalla A__, and Sharma A. Genomics, 112(1):567-573. -->
+[Paternal inheritance of diet induced metabolic traits correlates <br /> with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)  
+Teltumbade M, __Bhalla A__, and Sharma A; Genomics, 112:567-573
 
-Teltumbade M, __Bhalla A__, and Sharma A; [published in *Genomics*](https://doi.org/10.1016/j.ygeno.2019.04.008)
+<!-- Teltumbade M, __Bhalla A__, and Sharma A; [published in *Genomics*](https://doi.org/10.1016/j.ygeno.2019.04.008) -->
 
 N/A
 
@@ -225,10 +241,9 @@ N/A
 
 
 ### 
-<!-- [Transgenerational inheritance of cold temperature response in Drosophila](https://doi.org/10.1002/1873-3468.13343)   -->
-<!-- Karunakar P, __Bhalla A__, Sharma A. FEBS Letters, 593(6):594-600. -->
-
-Karunakar P, __Bhalla A__, and Sharma A; [published in *FEBS Letters*](https://doi.org/10.1002/1873-3468.13343)
+[Transgenerational inheritance of cold temperature response in Drosophila](https://doi.org/10.1002/1873-3468.13343)  
+Karunakar P, __Bhalla A__, Sharma A; FEBS Letters, 593:594-600
+<!-- Karunakar P, __Bhalla A__, and Sharma A; [published in *FEBS Letters*](https://doi.org/10.1002/1873-3468.13343) -->
 
 N/A
 
