@@ -103,9 +103,10 @@ Ameek Bhalla {#title}
 Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Senior Research Fellow (Genomics)
+### 
 
-Institute of Genomics & Integrative Biology
+__Institute of Genomics & Integrative Biology__  
+Senior Research Fellow (Genomics)
 
 New Delhi, India
 
@@ -115,11 +116,11 @@ Present - 2017
 
 * Designed, executed, and analyzed quantitative genetic experiments, containing 480,000 data points, to infer the heritability of metabolic traits
 
-### Graduate Research Fellow (Computational Biology)
+### 
 
-Institute of Genomics & Integrative Biology
+Graduate Research Fellow (Computational Biology)
 
-New Delhi, India
+N/A
 
 2017 - 2015
 
@@ -129,11 +130,11 @@ New Delhi, India
 <!-- * Scaled up generation of biological replicates and processing of metabolic assays, increasing sample size by 1000% -->
 * Invented techniques for mass production and processing of biological replicates, resulting in the publication of two research articles
 
-### Project Manager (Diabetes Genetics)
+### 
 
-Institute of Genomics & Integrative Biology
+Project Manager (Diabetes Genetics)
 
-New Delhi, India
+N/A
 
 2015 - 2012
 
@@ -143,9 +144,10 @@ New Delhi, India
 <!-- * Evaluated the function of 50 candidate genes for diabetes by performing RNA interference with 200 transgenic constructs in Drosophila (CSIR-sponsored project) -->
 * Evaluated 50 candidate genes for diabetes using 200 transgenic constructs in Drosophila
 
-### Freelance Content Editor (Medicine)
+### 
 
-Cureus Inc.
+__Cureus Inc.__  
+Freelance Content Editor (Medicine)
 
 Palo Alto
 (remote)
@@ -160,9 +162,10 @@ Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and sem
 
 <!-- ### Subject Editor (Molecular Biology) -->
 
-### Freelance Copy Editor (Molecular Biology)
+### 
 
-Cactus Communications Pvt. Ltd.
+__Cactus Communications Pvt. Ltd.__  
+Freelance Copy Editor (Molecular Biology)  
 
 Mumbai (remote)
 
@@ -173,9 +176,10 @@ Mumbai (remote)
 * Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
 
 
-### Research Assistant (Alzheimer Genetics)
+### 
 
-Indian Institute of Science
+__Indian Institute of Science__  
+Research Assistant (Alzheimer Genetics)
 
 Bangalore, India
 
@@ -191,8 +195,9 @@ Bangalore, India
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 
-### Institute of Genomics & Integrative Biology
+### 
 
+__Institute of Genomics & Integrative Biology__  
 Ph.D. candidate, Computational Biology/Genomics
 
 New Delhi, India
@@ -207,16 +212,18 @@ New Delhi, India
 
 <!-- 2013 -->
 
-### University of Delhi
+### 
 
+__University of Delhi__  
 Postgraduate diploma, Biochemical Technology
 
 New Delhi, India
 
 2007 - 2006
 
-### University of Delhi
+### 
 
+__University of Delhi__  
 BSc (honors), Biomedical Sciences
 
 New Delhi, India
