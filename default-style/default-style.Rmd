@@ -103,12 +103,12 @@ Ameek Bhalla {#title}
 Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### 
+### Institute of Genomics and Integrative Biology
 
-__Institute of Genomics & Integrative Biology__  
-Senior Research Fellow (Genomics)
+_Senior Research Fellow (Computational Genomics)_
 
-New Delhi, India
+N/A
+<!-- New Delhi -->
 
 Present - 2017
 
@@ -118,7 +118,7 @@ Present - 2017
 
 ### 
 
-Graduate Research Fellow (Computational Biology)
+_Graduate Research Fellow (Computational Genomics)_
 
 N/A
 
@@ -132,7 +132,7 @@ N/A
 
 ### 
 
-Project Manager (Diabetes Genetics)
+_Research Project Manager (Diabetes Genetics)_
 
 N/A
 
@@ -144,13 +144,30 @@ N/A
 <!-- * Evaluated the function of 50 candidate genes for diabetes by performing RNA interference with 200 transgenic constructs in Drosophila (CSIR-sponsored project) -->
 * Evaluated 50 candidate genes for diabetes using 200 transgenic constructs in Drosophila
 
-### 
+### Indian Institute of Science
 
-__Cureus Inc.__  
-Freelance Content Editor (Medicine)
+_Research Assistant (Alzheimer Genetics)_
 
-Palo Alto
-(remote)
+N/A
+<!-- Bangalore -->
+
+2012 - 2007
+
+<!-- * Designed classical-conditioning assays to evaluate the effect of candidate genes for Alzheimer's disease on long-term memory in Drosophila  -->
+
+<!-- * Designed classical-conditioning assays of long-term memory to evaluate candidate genes for Alzheimer's disease in Drosophila  -->
+
+* Pioneered a low-cost technique for measuring long-term memory of classical conditioning in Drosophila
+
+Experience (Freelance) {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Cureus Inc.
+
+_Content Editor (Medical Science)_
+
+N/A
+<!-- Palo Alto (remote) -->
 
 Present - 2020
 
@@ -162,12 +179,12 @@ Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and sem
 
 <!-- ### Subject Editor (Molecular Biology) -->
 
-### 
+### Cactus Communications Pvt. Ltd.
 
-__Cactus Communications Pvt. Ltd.__  
-Freelance Copy Editor (Molecular Biology)  
+_Language Editor (Molecular Biology)_
 
-Mumbai (remote)
+N/A
+<!-- Mumbai (remote) -->
 
 2020 - 2017
 
@@ -175,32 +192,15 @@ Mumbai (remote)
 <!-- journals of genetics, molecular biology, and biochemistry  -->
 * Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
 
-
-### 
-
-__Indian Institute of Science__  
-Research Assistant (Alzheimer Genetics)
-
-Bangalore, India
-
-2012 - 2007
-
-<!-- * Designed classical-conditioning assays to evaluate the effect of candidate genes for Alzheimer's disease on long-term memory in Drosophila  -->
-
-<!-- * Designed classical-conditioning assays of long-term memory to evaluate candidate genes for Alzheimer's disease in Drosophila  -->
-
-* Pioneered a low-cost technique for measuring long-term memory of classical conditioning in Drosophila
-
-
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 
-### 
+### Institute of Genomics and Integrative Biology
 
-__Institute of Genomics & Integrative Biology__  
-Ph.D. candidate, Computational Biology/Genomics
+_PhD Candidate, Computational Biology/Genomics_
 
-New Delhi, India
+N/A
+<!-- New Delhi -->
 
 2021 - 2015
 
@@ -212,21 +212,21 @@ New Delhi, India
 
 <!-- 2013 -->
 
-### 
+### University of Delhi
 
-__University of Delhi__  
-Postgraduate diploma, Biochemical Technology
+_Postgraduate Diploma, Biochemical Technology_
 
-New Delhi, India
+N/A
+<!-- New Delhi -->
 
 2007 - 2006
 
-### 
+### University of Delhi
 
-__University of Delhi__  
-BSc (honors), Biomedical Sciences
+_BSc (Hons), Biomedical Sciences_
 
-New Delhi, India
+N/A
+<!-- New Delhi -->
 
 2006 - 2003
 
