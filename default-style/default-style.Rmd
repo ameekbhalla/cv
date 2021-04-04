@@ -12,144 +12,173 @@ output:
 knit: pagedown::chrome_print
 ---
 
-Aside
-================================================================================
-
+# Aside
 
 <!-- ![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
 
+## Contact {#contact}
 
-Contact {#contact}
---------------------------------------------------------------------------------
-* <i class="fa fa-map-marked-alt"></i> New Delhi, India
-* <i class="fa fa-envelope"></i> ameekbhalla@gmail.com
-* <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla)
-* <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla)
-<!-- * <i class="fa fa-phone"></i> +91 9811550934 -->
-
+-   <i class="fa fa-map-marked-alt"></i> New Delhi, India <!-- * <i class="fa fa-envelope"></i> ameekbhalla@gmail.com -->
+-   <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla)
+-   <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla) <!-- * <i class="fa fa-phone"></i> +91 9811550934 -->
 
 <!-- <i class="fa fa-laptop-code"></i> Data Science Skills -->
-Data Science Skills {data-icon=laptop}
---------------------------------------------------------------------------------
+
+## Data Science Skills {data-icon="laptop"}
+
 <!-- | | | | -->
+
 <!-- |-|-|-| -->
+
 <!-- |__Languages__| R, Markdown, Bash | -->
+
 <!-- |__Regression__| GLMM |   -->
+
 <!-- |__Decision trees__| random forest, bagging |   -->
+
 <!-- |__Resampling__| cross validation, bootstrap |   -->
+
 <!-- |__Clustering__| k-means, hierarchical |   -->
+
 <!-- |__Dimensionality reduction__| PCA, MDS |   -->
 
-* __Languages__
-  + R, Markdown
-* __Regression__
-  + GLM, GLMM
-* __Decision trees__
-  + random forest, bagging
-* __Resampling__
-  + cross validation, bootstrapping 
-* __Clustering__
-  + k-means, hierarchical
-* __Dimensionality reduction__
-  + PCA, MDS
+-   **Languages**
+
+    -   R, Markdown
+
+-   **Regression**
+
+    -   GLM, GLMM
+
+-   **Decision trees**
+
+    -   random forest, bagging
+
+-   **Resampling**
+
+    -   cross validation, bootstrapping
+
+-   **Clustering**
+
+    -   k-means, hierarchical
+
+-   **Dimensionality reduction**
+
+    -   PCA, MDS
 
 <!-- <i class="fa fa-microscope"></i> Lab Research Skills -->
-Lab Research Skills {data-icon=flask}
---------------------------------------------------------------------------------
+
+## Lab Research Skills {data-icon="flask"}
+
 <!-- | | | | -->
+
 <!-- |-|-|-| -->
+
 <!-- |__Experimental design__| fractional factorials, pseudoreplication, hypothesis tests | -->
+
 <!-- |__Genomics__| microarray, RNAi | -->
+
 <!-- |__Molecular biology__| cloning, qPCR, western blotting | -->
+
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
-* __Experimental design__
-  + fractional factorials, repeated measures, meta-analyses
-* __Genomics__
-  + microarray, RNAi
-* __Molecular biology__
-  + cloning, qPCR, western blotting
-* __Drosophila genetics__
-  + GAL4-UAS system, genetic crossing
+-   **Experimental design**
+
+    -   fractional factorials, repeated measures, meta-analyses
+
+-   **Genomics**
+
+    -   microarray, RNAi
+
+-   **Molecular biology**
+
+    -   cloning, qPCR, western blotting
+
+-   **Drosophila genetics**
+
+    -   GAL4-UAS system, genetic crossing
 
 <!-- Interests {data-icon=pencil-ruler} -->
+
 <!-- -------------------------------------------------------------------------------- -->
+
 <!-- __Popular science__: evolutionary biology, personality psychology -->
+
 <!-- __Philosophy__: critical rationalism -->
+
 <!-- __Communication__: clear writing, data visualization -->
 
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+## Disclaimer {#disclaimer}
 
 <!-- Résumé  -->
-Written in <i class="fab fa-r-project"></i> language  
-[Source code on GitHub](https://github.com/ameekbhalla/cv)   
+
+Written in <i class="fab fa-r-project"></i> language\
+[Source code on GitHub](https://github.com/ameekbhalla/cv)\
 Last updated `r Sys.Date()`
 
+# Main
 
-Main
-================================================================================
-
-Ameek Bhalla {#title}
---------------------------------------------------------------------------------
+## Ameek Bhalla {#title}
 
 <!-- I am interested in developing predictive applications in the fields of personalized medicine, biotechnology, and pharmaceuticals. -->
+
 <!-- I have been researching the inheritance of complex disorders like diabetes,heart disease, and Alzheimer’s disease for 14 years. -->
+
 <!-- My expertise lies in designing experiments that produce decisive results, selecting machine learning tools that balance rigor with feasibility, creating data visualizations that can be understood at the first glance, and composing clearly worded reports that avoid jargon.  -->
+
 <!-- The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. -->
 
-
-Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+## Experience {data-icon="suitcase"}
 
 ### Institute of Genomics and Integrative Biology
 
-_Senior Research Fellow (Computational Genomics)_
+*Senior Research Fellow (Computational Genomics)*
 
-N/A
-<!-- New Delhi -->
+N/A <!-- New Delhi -->
 
 Present - 2017
 
 <!-- * Designed quantitative genetic experiments experiments and statistical models (to infer the heritability of) (to quantify the variation in) complex disorders from data encompassing multiple treatment groups, time points, replicates, and 20000 genes   -->
 
-* Designed, executed, and analyzed quantitative genetic experiments, containing 480,000 data points, to infer the heritability of metabolic traits
+-   Designed, executed, and analyzed quantitative genetic experiments, containing 480,000 data points, to infer the heritability of metabolic traits
 
 ### 
 
-_Graduate Research Fellow (Computational Genomics)_
+*Graduate Research Fellow (Computational Genomics)*
 
 N/A
 
 2017 - 2015
 
 <!-- * Implemented mixed-effects models to handle correlated data and reduced false positives -->
-* Implemented mixed models to handle nested data, increasing statistical power by 1000%
+
+-   Implemented mixed models to handle nested data, increasing statistical power by 1000%
 
 <!-- * Scaled up generation of biological replicates and processing of metabolic assays, increasing sample size by 1000% -->
-* Invented techniques for mass production and processing of biological replicates, resulting in the publication of two research articles
+
+-   Invented techniques for mass production and processing of biological replicates, resulting in the publication of two research articles
 
 ### 
 
-_Research Project Manager (Diabetes Genetics)_
+*Research Project Manager (Diabetes Genetics)*
 
 N/A
 
 2015 - 2012
 
 <!-- * Budgeted, modernized the equipment, streamlined the workflow, troubleshot and trained 10+ members, while first overhauling the lab and then leading it -->
-* Operationalized a government project (CSIR, India) by managing procurement, troubleshooting protocols, and training five new colleagues
+
+-   Operationalized a government project (CSIR, India) by managing procurement, troubleshooting protocols, and training five new colleagues
 
 <!-- * Evaluated the function of 50 candidate genes for diabetes by performing RNA interference with 200 transgenic constructs in Drosophila (CSIR-sponsored project) -->
-* Evaluated 50 candidate genes for diabetes using 200 transgenic constructs in Drosophila
+
+-   Evaluated 50 candidate genes for diabetes using 200 transgenic constructs in Drosophila
 
 ### Indian Institute of Science
 
-_Research Assistant (Alzheimer Genetics)_
+*Research Assistant (Alzheimer Genetics)*
 
-N/A
-<!-- Bangalore -->
+N/A <!-- Bangalore -->
 
 2012 - 2007
 
@@ -157,17 +186,15 @@ N/A
 
 <!-- * Designed classical-conditioning assays of long-term memory to evaluate candidate genes for Alzheimer's disease in Drosophila  -->
 
-* Pioneered a low-cost technique for measuring long-term memory of classical conditioning in Drosophila
+-   Pioneered a low-cost technique for measuring long-term memory of classical conditioning in Drosophila
 
-Experience (Freelance) {data-icon=suitcase}
---------------------------------------------------------------------------------
+## Experience (Freelance) {data-icon="suitcase"}
 
 ### Cureus Inc.
 
-_Content Editor (Medical Science)_
+*Content Editor (Medical Science)*
 
-N/A
-<!-- Palo Alto (remote) -->
+N/A <!-- Palo Alto (remote) -->
 
 Present - 2020
 
@@ -181,26 +208,25 @@ Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and sem
 
 ### Cactus Communications Pvt. Ltd.
 
-_Language Editor (Molecular Biology)_
+*Language Editor (Molecular Biology)*
 
-N/A
-<!-- Mumbai (remote) -->
+N/A <!-- Mumbai (remote) -->
 
 2020 - 2017
 
 <!-- * Boosted the readability of 300 academic manuscripts written by non-native English speakers (from more than 10 developing countries), enhancing their acceptance by life science journals -->
-<!-- journals of genetics, molecular biology, and biochemistry  -->
-* Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
 
-Education {data-icon=graduation-cap}
---------------------------------------------------------------------------------
+<!-- journals of genetics, molecular biology, and biochemistry  -->
+
+-   Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
+
+## Education {data-icon="graduation-cap"}
 
 ### Institute of Genomics and Integrative Biology
 
-_PhD Candidate, Computational Biology/Genomics_
+*PhD Candidate, Computational Biology/Genomics*
 
-N/A
-<!-- New Delhi -->
+N/A <!-- New Delhi -->
 
 2021 - 2015
 
@@ -214,30 +240,28 @@ N/A
 
 ### University of Delhi
 
-_Postgraduate Diploma, Biochemical Technology_
+*Postgraduate Diploma, Biochemical Technology*
 
-N/A
-<!-- New Delhi -->
+N/A <!-- New Delhi -->
 
 2007 - 2006
 
 ### University of Delhi
 
-_BSc (Hons), Biomedical Sciences_
+*BSc (Hons), Biomedical Sciences*
 
-N/A
-<!-- New Delhi -->
+N/A <!-- New Delhi -->
 
 2006 - 2003
 
+## Peer-reviewed Publications {data-icon="book"}
 
-Peer-reviewed Publications {data-icon=book}
---------------------------------------------------------------------------------
+### 
 
-###
 <!-- A line break was introduced in the following title to force "with" into the next line  -->
-[Paternal inheritance of diet induced metabolic traits correlates <br /> with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)  
-Teltumbade M, __Bhalla A__, and Sharma A; Genomics, 112:567-573
+
+[Paternal inheritance of diet induced metabolic traits correlates <br /> with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)\
+Teltumbade M, **Bhalla A**, and Sharma A; Genomics, 112:567-573
 
 <!-- Teltumbade M, __Bhalla A__, and Sharma A; [published in *Genomics*](https://doi.org/10.1016/j.ygeno.2019.04.008) -->
 
@@ -245,12 +269,10 @@ N/A
 
 2020
 
-
-
 ### 
-[Transgenerational inheritance of cold temperature response in Drosophila](https://doi.org/10.1002/1873-3468.13343)  
-Karunakar P, __Bhalla A__, Sharma A; FEBS Letters, 593:594-600
-<!-- Karunakar P, __Bhalla A__, and Sharma A; [published in *FEBS Letters*](https://doi.org/10.1002/1873-3468.13343) -->
+
+[Transgenerational inheritance of cold temperature response in Drosophila](https://doi.org/10.1002/1873-3468.13343)\
+Karunakar P, **Bhalla A**, Sharma A; FEBS Letters, 593:594-600 <!-- Karunakar P, __Bhalla A__, and Sharma A; [published in *FEBS Letters*](https://doi.org/10.1002/1873-3468.13343) -->
 
 N/A
 
