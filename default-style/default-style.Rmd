@@ -18,9 +18,9 @@ knit: pagedown::chrome_print
 
 ## Contact {#contact}
 
--   <i class="fa fa-map-marked-alt"></i> New Delhi, India <!-- * <i class="fa fa-envelope"></i> ameekbhalla@gmail.com -->
+-   <i class="fa fa-map-marked-alt"></i> New Delhi, India <!-- * <i class="fa fa-envelope"></i> ____________@gmail.com -->
 -   <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla)
--   <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla) <!-- * <i class="fa fa-phone"></i> +91 9811550934 -->
+-   <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla) <!-- * <i class="fa fa-phone"></i> +91 __________ -->
 
 <!-- <i class="fa fa-laptop-code"></i> Data Science Skills -->
 
@@ -42,29 +42,12 @@ knit: pagedown::chrome_print
 
 <!-- |__Dimensionality reduction__| PCA, MDS |   -->
 
--   **Languages**
-
-    -   R, Markdown
-
--   **Regression**
-
-    -   GLM, GLMM
-
--   **Decision trees**
-
-    -   random forest, bagging
-
--   **Resampling**
-
-    -   cross validation, bootstrapping
-
--   **Clustering**
-
-    -   k-means, hierarchical
-
--   **Dimensionality reduction**
-
-    -   PCA, MDS
+-   **Languages** <br />            R, <br />            Markdown
+-   **Regression** <br />            GLM, <br />            GLMM
+-   **Decision trees** <br />            random forest, <br />            bagging
+-   **Resampling** <br />            cross validation, <br />            bootstrapping
+-   **Clustering** <br />            k-means, <br />             hierarchical
+-   **Dimensionality reduction** <br />            PCA, <br />            MDS
 
 <!-- <i class="fa fa-microscope"></i> Lab Research Skills -->
 
@@ -82,21 +65,10 @@ knit: pagedown::chrome_print
 
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
--   **Experimental design**
-
-    -   fractional factorials, repeated measures, meta-analyses
-
--   **Genomics**
-
-    -   microarray, RNAi
-
--   **Molecular biology**
-
-    -   cloning, qPCR, western blotting
-
--   **Drosophila genetics**
-
-    -   GAL4-UAS system, genetic crossing
+-   **Experimental design** <br />            fractional factorials, <br />            repeated measures, <br />            meta-analyses
+-   **Genomics** <br />            microarray, <br />            RNAi
+-   **Molecular biology** <br />            cloning, <br />            qPCR, <br />            western blotting
+-   **Drosophila genetics** <br />            GAL4-UAS system, <br />            genetic crossing
 
 <!-- Interests {data-icon=pencil-ruler} -->
 
@@ -202,7 +174,7 @@ Present - 2020
 
 <!-- * Critiqued the statistics, data visuals, and semantics of 150 manuscripts, along with an international team, while scoring a 4.9/5 from physician authors -->
 
-Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team
+-   Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team
 
 <!-- ### Subject Editor (Molecular Biology) -->
 
