@@ -6,8 +6,8 @@ output:
   pagedown::html_resume:
     css: ['css/custom.css']
 # set following to true for a self-contained HTML but it'll take longer to render
-    self_contained: TRUE
-    
+    # self_contained: TRUE
+    # 
 # uncomment following line to produce PDF:
 knit: pagedown::chrome_print
 ---
@@ -104,7 +104,7 @@ Last updated `r Sys.Date()`
 
 ### Cureus Inc.
 
-*Content Editor (Medical Science)*
+*Statistical Editor (Medical Science)*
 
 N/A <!-- Palo Alto (remote) -->
 
@@ -112,9 +112,9 @@ Present - 2020
 
 <!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the rapid-publication medical journal Cureus to make them popular in the medical community-->
 
-<!-- * Critiqued the statistics, data visuals, and semantics of 150 manuscripts, along with an international team, while scoring a 4.9/5 from physician authors -->
+-   Critiqued the statistics and experimental design of more than 300 manuscripts for the journal Cureus as part of an international team
 
--   Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team
+<!-- * Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team -->
 
 <!-- ### Subject Editor (Molecular Biology) -->
 
