@@ -100,7 +100,39 @@ Last updated `r Sys.Date()`
 
 <!-- The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. -->
 
-## Experience {data-icon="suitcase"}
+## Experience (Industry) {data-icon="suitcase"}
+
+### Cureus Inc.
+
+*Content Editor (Medical Science)*
+
+N/A <!-- Palo Alto (remote) -->
+
+Present - 2020
+
+<!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the rapid-publication medical journal Cureus to make them popular in the medical community-->
+
+<!-- * Critiqued the statistics, data visuals, and semantics of 150 manuscripts, along with an international team, while scoring a 4.9/5 from physician authors -->
+
+-   Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team
+
+<!-- ### Subject Editor (Molecular Biology) -->
+
+### Cactus Communications Pvt. Ltd.
+
+*Language Editor (Molecular Biology)*
+
+N/A <!-- Mumbai (remote) -->
+
+2020 - 2017
+
+<!-- * Boosted the readability of 300 academic manuscripts written by non-native English speakers (from more than 10 developing countries), enhancing their acceptance by life science journals -->
+
+<!-- journals of genetics, molecular biology, and biochemistry  -->
+
+-   Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
+
+## Experience (Academia) {data-icon="suitcase"}
 
 ### Institute of Genomics and Integrative Biology
 
@@ -159,38 +191,6 @@ N/A <!-- Bangalore -->
 <!-- * Designed classical-conditioning assays of long-term memory to evaluate candidate genes for Alzheimer's disease in Drosophila  -->
 
 -   Pioneered a low-cost technique for measuring long-term memory of classical conditioning in Drosophila
-
-## Experience (Freelance) {data-icon="suitcase"}
-
-### Cureus Inc.
-
-*Content Editor (Medical Science)*
-
-N/A <!-- Palo Alto (remote) -->
-
-Present - 2020
-
-<!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the rapid-publication medical journal Cureus to make them popular in the medical community-->
-
-<!-- * Critiqued the statistics, data visuals, and semantics of 150 manuscripts, along with an international team, while scoring a 4.9/5 from physician authors -->
-
--   Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team
-
-<!-- ### Subject Editor (Molecular Biology) -->
-
-### Cactus Communications Pvt. Ltd.
-
-*Language Editor (Molecular Biology)*
-
-N/A <!-- Mumbai (remote) -->
-
-2020 - 2017
-
-<!-- * Boosted the readability of 300 academic manuscripts written by non-native English speakers (from more than 10 developing countries), enhancing their acceptance by life science journals -->
-
-<!-- journals of genetics, molecular biology, and biochemistry  -->
-
--   Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
 
 ## Education {data-icon="graduation-cap"}
 
