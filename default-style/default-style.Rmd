@@ -65,7 +65,7 @@ knit: pagedown::chrome_print
 
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
--   **Experimental design** <br />            fractional factorials, <br />            repeated measures, <br />            meta-analyses
+-   **Experimental design** <br />            RCTs, <br />            meta-analyses, <br />            fractional factorials, <br />            repeated measures
 -   **Genomics** <br />            microarray, <br />            RNAi
 -   **Molecular biology** <br />            cloning, <br />            qPCR, <br />            western blotting
 -   **Drosophila genetics** <br />            GAL4-UAS system, <br />            genetic crossing
@@ -112,7 +112,7 @@ Present - 2020
 
 <!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the rapid-publication medical journal Cureus to make them popular in the medical community-->
 
--   Critiqued the statistics and experimental design of more than 300 manuscripts for the journal Cureus as part of an international team
+-   Evaluated the study design and statistics of more than 300 manuscripts for the medical journal Cureus as part of an international team
 
 <!-- * Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team -->
 
@@ -120,7 +120,7 @@ Present - 2020
 
 ### Cactus Communications Pvt. Ltd.
 
-*Language Editor (Molecular Biology)*
+*Editor (Molecular Biology)*
 
 N/A <!-- Mumbai (remote) -->
 
@@ -130,7 +130,7 @@ N/A <!-- Mumbai (remote) -->
 
 <!-- journals of genetics, molecular biology, and biochemistry  -->
 
--   Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
+-   Customized manuscripts written by authors from more than 10 developing countries to enhance their acceptance by top-tier journals
 
 ## Experience (Academia) {data-icon="suitcase"}
 
