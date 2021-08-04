@@ -18,9 +18,10 @@ knit: pagedown::chrome_print
 
 ## Contact {#contact}
 
--   <i class="fa fa-map-marked-alt"></i> New Delhi, India <!-- * <i class="fa fa-envelope"></i> ____________@gmail.com -->
--   <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla)
--   <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla) <!-- * <i class="fa fa-phone"></i> +91 __________ -->
+<!--.* <i class="fa fa-map-marked-alt"></i> New Delhi, India -->
+
+-   <i class="fa fa-envelope"></i> [bhalla.ameek\@gmail.com](mailto:bhalla.ameek@gmail.com){.email}
+-   <i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla) <!-- * <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla)--> <!-- * <i class="fa fa-phone"></i> +91 __________ -->
 -   <i class="fas fa-globe"></i> [ameekbhalla.netlify.app](https://ameekbhalla.netlify.app)
 
 <!-- <i class="fa fa-laptop-code"></i> Data Science Skills -->
@@ -52,7 +53,7 @@ knit: pagedown::chrome_print
 
 <!-- <i class="fa fa-microscope"></i> Lab Research Skills -->
 
-## Lab Research Skills {data-icon="flask"}
+## Research Skills {data-icon="flask"}
 
 <!-- | | | | -->
 
@@ -66,12 +67,10 @@ knit: pagedown::chrome_print
 
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
--   **Experimental design** <br />            RCTs, <br />            meta-analyses, <br />            fractional factorials, <br />            repeated measures
--   **Genomics** <br />            microarray, <br />            RNAi
+-   **Study design** <br />            meta-analyses, <br />            RCTs, <br />            case-control studies, <br />            cohort studies, <br />            reapeated measures, <br />            fractional factorials
+-   **Genomics** <br />            RNA sequencing, <br />            RNAi
 -   **Molecular biology** <br />            cloning, <br />            qPCR, <br />            western blotting
--   **Drosophila genetics** <br />            GAL4-UAS system, <br />            genetic crossing
-
-<!-- Interests {data-icon=pencil-ruler} -->
+-   **Drosophila genetics** <br />            GAL4-UAS system, <br />            genetic crossing <!-- Interests {data-icon=pencil-ruler} -->
 
 <!-- -------------------------------------------------------------------------------- -->
 
