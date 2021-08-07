@@ -67,7 +67,7 @@ knit: pagedown::chrome_print
 
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
--   **Study design** <br />            meta-analyses, <br />            RCTs, <br />            case-control studies, <br />            cohort studies, <br />            reapeated measures, <br />            fractional factorials
+-   **Study design** <br />            meta-analyses, <br />            RCTs, <br />            case-control studies, <br />            cohort studies, <br />            repeated measures, <br />            fractional factorials
 -   **Genomics** <br />            RNA sequencing, <br />            RNAi
 -   **Molecular biology** <br />            cloning, <br />            qPCR, <br />            western blotting
 -   **Drosophila genetics** <br />            GAL4-UAS system, <br />            genetic crossing <!-- Interests {data-icon=pencil-ruler} -->
