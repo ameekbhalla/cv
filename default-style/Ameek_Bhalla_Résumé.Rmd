@@ -144,7 +144,7 @@ Present - 2017
 
 <!-- * Designed quantitative genetic experiments experiments and statistical models (to infer the heritability of) (to quantify the variation in) complex disorders from data encompassing multiple treatment groups, time points, replicates, and 20000 genes   -->
 
--   Designed, executed, and analyzed quantitative genetic experiments, containing 480,000 data points, to infer the heritability of metabolic traits
+-   Designed, executed, and analyzed quantitative genetic experiments, containing 896,000 data points, to infer the heritability of metabolic traits
 
 ### 
 
