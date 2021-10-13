@@ -140,7 +140,7 @@ N/A <!-- Mumbai (remote) -->
 
 N/A <!-- New Delhi -->
 
-Present - 2017
+Present - 2019
 
 <!-- * Designed quantitative genetic experiments experiments and statistical models (to infer the heritability of) (to quantify the variation in) complex disorders from data encompassing multiple treatment groups, time points, replicates, and 20000 genes   -->
 
@@ -152,7 +152,7 @@ Present - 2017
 
 N/A
 
-2017 - 2015
+2019 - 2015
 
 <!-- * Implemented mixed-effects models to handle correlated data and reduced false positives -->
 
