@@ -1,0 +1,198 @@
+---
+title: "Likhesh's Résumé"
+author: Likhesh Sharma
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/custom.css']
+# set following to true for a self-contained HTML but it'll take longer to render
+    # self_contained: TRUE
+# uncomment following line to produce PDF:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+<!-- ![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> likhesmhbu@gmail.com
+-   <i class="fa fa-linkedin"></i> [linkedin.com/in/likhesh-sharma](https://linkedin.com/in/likhesh-sharma)
+- <i class="fa fa-phone"></i> +91-9910055356‬
+<!-- - For more information, please contact me via email. -->
+
+
+MANAGEMENT SKILLS
+--------------------------------------------------------------------------------
+
+- Kaizen strategy
+- Funnel management
+- Business analysis
+- Market research
+- Competition analysis
+
+ANALYTICAL SKILLS
+--------------------------------------------------------------------------------
+
+- Google Analytics
+- Excel/Google Sheets
+- Data Visualization
+- Clinical trial assessment
+- 21 CFR Part 11
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Written in <i class="fab fa-r-project"></i> language\
+Last updated `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Likhesh Sharma {#title}
+--------------------------------------------------------------------------------
+
+<!-- I am interested in developing predictive applications in the fields of personalized medicine, biotechnology, and pharmaceuticals. -->
+
+<!-- I have been researching the inheritance of complex disorders like diabetes,heart disease, and Alzheimer’s disease for 14 years. -->
+
+<!-- My expertise lies in designing experiments that produce decisive results, selecting machine learning tools that balance rigor with feasibility, creating data visualizations that can be understood at the first glance, and composing clearly worded reports that avoid jargon.  -->
+
+<!-- The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. -->
+
+
+## Experience (Industry) {data-icon="suitcase"}
+
+### Cytiva
+
+*Product Manager (Cell & Gene Therapy)*
+
+N/A <!-- Bangalore -->
+
+Present - 2021
+
+
+###
+
+*Product Manager (Cell Analysis)*
+
+N/A <!-- New Delhi -->
+
+2021 - 2020
+
+- I was involved in Business Development lead management of Microscopy portfolio of Cytiva (Formerly GE Healthcare Life Sciences). I also provided technical support and training to scientists for G&CR product line.
+202
+
+### GE Healthcare
+
+*Product Manager (Cell Analysis)*
+
+N/A <!-- New Delhi -->
+
+2020 - 2019
+
+- I was involved in Business Development lead management of Microscopy portfolio of Cytiva (Formerly GE Healthcare Life Sciences). Also provided technical support and training to scientists for G&CR product line.
+202
+
+###
+
+*Sales Application Specialist*
+
+N/A <!-- New Delhi -->
+
+2019 - 2017
+
+- I provided technical pre- and post-sale support, including demonstrations and hands-on training on the Biacore, AKTA, Scanners, Imagers and GE Proteomics Platform.
+
+###
+
+*Application Specialist*
+
+N/A <!-- new Delhi -->
+
+2017 - 2017
+
+- I took care of the Protein Research Portfolio of GE Healthcare. I gave lectures,Demos and did troubleshooting on technologies offered by GE such as Proteomics, SPR and FPLC.
+
+## Experience (Academia) {data-icon="suitcase"}
+
+### Institute of Genomics and Integrative Biology
+
+*Senior Research Fellow*
+
+N/A <!-- Bangalore -->
+
+2017 - 2011
+
+- Designed and executed experiments related to effect of cysteine mutations on proteins, coordinated with collaborators on various projects such as binding of artificial liposomes to proteins.
+
+### 
+
+*Junior Research Fellow*
+
+N/A
+
+2011 - 2009
+
+- Designed and executed experiments related to differential labeling of Maltose Binding Protein.
+- Worked as Teaching Assistant for “Introduction to Biophysical Chemistry(MB201)” course.
+
+### 
+
+*Integrated PhD fellow*
+
+N/A
+
+2009 - 2007
+
+- Assisted in various scientific projects such as study of fig–wasp–nematode tritrophic interactions in **Ficus racemosa**.
+- Performed various immunological and biochemical assays such as oxidative stress assay and Fluorescence-activated cell sorting (FACS).
+- Did biophysical characterization of Thioredoxin and Maltose Binding Protein.
+
+## Education {data-icon="graduation-cap"}
+
+### Indian Institute of Science (IISc)
+
+*PhD, Biological Sciences*
+
+N/A <!-- New Delhi -->
+
+2016 - 2007
+
+### University of Delhi
+
+*BSc, Microbiology*
+
+N/A <!-- New Delhi -->
+
+2007 - 2004
+
+## Peer-reviewed Publications {data-icon="book"}
+
+### 
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+[Effect of Signal Peptide on Stability and Folding of Escherichia coliThioredoxin](https://doi.org/10.1371/journal.pone.0063442)\
+Singh P, **Sharma L**, Kulothungan SR et al.; PLoS One, 8:e63442
+
+N/A
+
+2013
+
+### 
+
+[A hitchhiker’s guide to a crowded syconium: how do fig nematodesfind the right ride?](https://doi.org/10.1111/j.1365-2435.2010.01696.x)\
+Krishnan A, Muralidharan S, **Sharma L** et al.; Funct Ecol, 24:741-49 
+
+N/A
+
+2010
+
