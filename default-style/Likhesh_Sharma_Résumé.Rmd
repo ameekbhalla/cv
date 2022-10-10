@@ -21,7 +21,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> likhesmhbu@gmail.com
+- <i class="fa fa-envelope"></i> likheshsharma@gmail.com
 -   <i class="fa fa-linkedin"></i> [linkedin.com/in/likhesh-sharma](https://linkedin.com/in/likhesh-sharma)
 - <i class="fa fa-phone"></i> +91-9910055356‬
 <!-- - For more information, please contact me via email. -->
