@@ -39,11 +39,11 @@ MANAGEMENT SKILLS
 ANALYTICAL SKILLS
 --------------------------------------------------------------------------------
 
-- R programming
-- Excel/Google Sheets
-- Power BI
+- Programming <br /> (Python)
+- Data visualization <br /> (Power BI)
+- Statistical modeling <br /> (T-test, ANOVA, Correlation)
 <!-- - Clinical trial assessment -->
-- 21 CFR Part 11
+- Machine learning <br /> (Regression, Clustering, PCA)
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -72,54 +72,33 @@ Likhesh Sharma {#title}
 
 ### Cytiva
 
-*Product Manager (Cell & Gene Therapy)*
+*Product Manager (Cell and Gene Therapy)*
 
 N/A <!-- Bangalore -->
 
 Present - 2021
 
-- I manage the development, consultation, and delivery of technical projects in the cell and gene therapy business unit in South Asia.
-
-###
-
-*Product Manager (Cell Analysis)*
-
-N/A <!-- New Delhi -->
-
-2021 - 2020
-
-- I was involved in forecasting the growth of the microscopy portfolio of Cytiva (Formerly GE Healthcare Life Sciences).
-
+- I make business decisions for South Asia based on market intelligence data provided by the Genomic Medicine business unit.
 
 ### GE Healthcare
 
-*Product Manager (Cell Analysis)*
+*Product Manager (Microscopy)*
 
 N/A <!-- New Delhi -->
 
-2020 - 2019
+2021 - 2019
 
-- I trained scientists on integrating data gathered through the GE Healthcare Life Sciences G&CR products.
+- I oversaw the development of image analysis tools for the microscopy portfolio based on machine learning algorithms.
 
 ###
 
-*Research Application Specialist*
+*Application Scientist*
 
 N/A <!-- New Delhi -->
 
 2019 - 2017
 
-- I provided technical support, including demonstrations and hands-on training on the Biacore, AKTA, Scanners, Imagers and GE Proteomics Platform.
-
-###
-
-*Application Specialist*
-
-N/A <!-- new Delhi -->
-
-2017 - 2017
-
-- I took care of the Protein Research Portfolio of GE Healthcare. I gave lectures, Demos and did troubleshooting on technologies offered by GE such as Proteomics, SPR and FPLC.
+- I trained scientists in analyzing proteomic data gathered on the platforms developed by GE Healthcare Life Sciences.
 
 ## Experience (Academia) {data-icon="suitcase"}
 
@@ -146,7 +125,7 @@ N/A
 
 ### 
 
-*Integrated PhD fellow*
+*Integrated PhD Fellow*
 
 N/A
 
