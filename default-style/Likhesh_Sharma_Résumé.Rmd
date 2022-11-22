@@ -102,7 +102,7 @@ N/A <!-- New Delhi -->
 
 ## Experience (Academia) {data-icon="suitcase"}
 
-### Institute of Genomics and Integrative Biology
+### Indian Institute of Science (IISc)
 
 *Senior Research Fellow*
 
