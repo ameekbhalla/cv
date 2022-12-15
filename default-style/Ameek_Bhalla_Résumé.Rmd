@@ -102,7 +102,7 @@ Last updated `r Sys.Date()`
 
 ## Experience (Industry) {data-icon="suitcase"}
 
-### Cureus Journal of Medical Science
+### Cureus Journal of Medical Science (Springer Nature)
 
 *Statistical Editor (Medical Science)*
 
