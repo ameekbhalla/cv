@@ -44,12 +44,12 @@ knit: pagedown::chrome_print
 
 <!-- |__Dimensionality reduction__| PCA, MDS |   -->
 
--   **Languages** <br />            R, <br />            Markdown
--   **Regression** <br />            GLM, <br />            GLMM
--   **Decision trees** <br />            random forest, <br />            bagging
--   **Resampling** <br />            cross validation, <br />            bootstrapping
--   **Clustering** <br />            k-means, <br />             hierarchical
--   **Dimensionality reduction** <br />            PCA, <br />            MDS
+-   **Languages** <br />            R, <br />            Bash, <br />            Markdown
+-   **Machine Learning** <br />            regression, <br />            GLMM,
+<!-- **Decision trees**--><br />            random forest
+-   **Resampling** <br />            cross validation, <br />            bootstrapping, <br />            bagging
+-   **Clustering** <br />            k-means, <br />            hierarchical
+-   **Dimensionality reduction** <br />            PCA, <br />            tSNE, <br />            UMAP
 
 <!-- <i class="fa fa-microscope"></i> Lab Research Skills -->
 
@@ -59,7 +59,7 @@ knit: pagedown::chrome_print
 
 <!-- |-|-|-| -->
 
-<!-- |__Experimental design__| fractional factorials, pseudoreplication, hypothesis tests | -->
+<!-- |__Experimental design__| fractional factorials, repeated measures, pseudoreplication, hypothesis tests | -->
 
 <!-- |__Genomics__| microarray, RNAi | -->
 
@@ -67,9 +67,11 @@ knit: pagedown::chrome_print
 
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
--   **Study design** <br />            meta-analyses, <br />            RCTs, <br />            case-control studies, <br />            cohort studies, <br />            repeated measures, <br />            fractional factorials
+-   **Epidemology** <br />            meta-analyses, <br />            RCTs, <br />            case-control studies, <br />            longitudinal studies <br /> 
 -   **Genomics** <br />            RNA sequencing, <br />            scRNA-seq
--   **Molecular biology** <br />            cloning, <br />            qPCR, <br />            western blotting
+-   **Quantitative Genetics** <br />            GWAS,  <br />            twin studies
+-   **Population Genetics** <br />            phylogenetic trees, <br />            selection tests
+<!-- -   **Molecular biology** <br />            cloning, <br />            qPCR, <br />            western blotting -->
 <!-- -   **Drosophila genetics** <br />            GAL4-UAS system, <br />            genetic crossing -->
 <!-- Interests {data-icon=pencil-ruler} -->
 
@@ -103,7 +105,7 @@ Last updated `r Sys.Date()`
 
 ## Experience (Industry) {data-icon="suitcase"}
 
-### Cureus Journal of Medical Science (Springer Nature)
+### Cureus Journal of Medical Science, Springer Nature
 
 *Statistical Editor (Medical Science)*
 
@@ -113,15 +115,15 @@ Present - 2020
 
 <!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the rapid-publication medical journal Cureus to make them popular in the medical community-->
 
--   Evaluated the study design and statistics of more than 300 manuscripts for the medical journal Cureus as part of an international team
+-   Evaluated the experimental design and statistics of more than 700 manuscripts for the medical journal Cureus
 
 <!-- * Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team -->
 
 <!-- ### Subject Editor (Molecular Biology) -->
 
-### Cactus Communications Pvt. Ltd.
+### Editage Scientific Editing
 
-*Editor (Molecular Biology)*
+*Subject matter expert (Molecular Biology)*
 
 N/A <!-- Mumbai (remote) -->
 
@@ -131,7 +133,7 @@ N/A <!-- Mumbai (remote) -->
 
 <!-- journals of genetics, molecular biology, and biochemistry  -->
 
--   Customized manuscripts written by authors from more than 10 developing countries to enhance their acceptance by top-tier journals
+-   Revised the text and data visuals of manuscripts to enhance their acceptance by top-tier journals
 
 ## Experience (Academia) {data-icon="suitcase"}
 
@@ -143,39 +145,34 @@ N/A <!-- New Delhi -->
 
 Present - 2022
 
-- Analysed single-cell RNA sequencing data from gastric cancer, Lyme, and TB samples to identify cell-specific biomarkers
+- Analysed single-cell RNA sequencing data from gastric cancer, Lyme, and TB patients to identify cell-specific biomarkers
 
 ### Institute of Genomics and Integrative Biology, New Delhi
 
-*Senior Research Fellow (Computational Genomics)*
+*Graduate Research Assistant (Computational Genomics)*
 
 N/A <!-- New Delhi -->
 
-2022 - 2019
+2022 - 2015
 
 <!-- * Designed quantitative genetic experiments experiments and statistical models (to infer the heritability of) (to quantify the variation in) complex disorders from data encompassing multiple treatment groups, time points, replicates, and 20000 genes   -->
 
--   Designed, executed, and analyzed quantitative genetic experiments, containing 896,000 data points, to infer the heritability of metabolic traits
+-   Designed quantitative genetic experiments to generate big data (896,000 data points) for inferring the heritability of metabolic traits
 
-### 
-
-*Graduate Research Fellow (Computational Genomics)*
-
-N/A
-
-2019 - 2015
 
 <!-- * Implemented mixed-effects models to handle correlated data and reduced false positives -->
 
--   Implemented mixed models to handle nested data, increasing statistical power by 1000%
+<!-- -   Implemented mixed models to handle nested data, increasing statistical power by 1000% -->
 
 <!-- * Scaled up generation of biological replicates and processing of metabolic assays, increasing sample size by 1000% -->
 
--   Invented techniques for mass production and processing of biological replicates, resulting in the publication of two research articles
+<!-- -   Invented techniques for mass production and processing of biological replicates, resulting in the publication of two research articles -->
+
+-   Implemented statistical techniques for handling non-independence of data, resulting in the publication of three research articles
 
 ### 
 
-*Research Project Manager (Diabetes Genetics)*
+*Lab Manager (Diabetes Genetics)*
 
 N/A
 
@@ -183,23 +180,21 @@ N/A
 
 <!-- * Budgeted, modernized the equipment, streamlined the workflow, troubleshot and trained 10+ members, while first overhauling the lab and then leading it -->
 
--   Operationalized a government project (CSIR, India) by managing procurement, troubleshooting protocols, and training five new colleagues
+-   Operationalized a government project (CSIR, India) by managing procurement, standardizing protocols, and training new colleagues
 
-<!-- * Evaluated the function of 50 candidate genes for diabetes by performing RNA interference with 200 transgenic constructs in Drosophila (CSIR-sponsored project) -->
+<!-- - Evaluated the function of 50 candidate genes for diabetes by performing RNA interference with 200 transgenic constructs in Drosophila (CSIR-sponsored project) -->
 
--   Evaluated 50 candidate genes for diabetes using 200 transgenic constructs in Drosophila
+<!-- -   Evaluated 50 candidate genes for diabetes using 200 transgenic constructs in Drosophila -->
 
-<!-- ### Indian Institute of Science -->
+### Indian Institute of Science, Bangalore
 
-<!-- *Research Assistant (Alzheimer Genetics)* -->
+*Research Associate (Alzheimer Genetics)*
 
-<!-- Bangalore -->
+N/A <!-- New Delhi -->
 
-<!-- 2012 - 2007 -->
+2012 - 2007
 
-<!-- * Designed classical-conditioning assays to evaluate the effect of candidate genes for Alzheimer's disease on long-term memory in Drosophila  -->
-
-<!-- * Designed classical-conditioning assays of long-term memory to evaluate candidate genes for Alzheimer's disease in Drosophila  -->
+-   Devised classical-conditioning assays to evaluate the effect of candidate genes of Alzheimer's disease on long-term memory in Drosophila
 
 <!-- -   Pioneered a low-cost technique for measuring long-term memory of classical conditioning in Drosophila -->
 
@@ -207,11 +202,11 @@ N/A
 
 ### Institute of Genomics and Integrative Biology, New Delhi
 
-*PhD, Computational Biology/Genomics*
+*PhD, Computational Biology*
 
 N/A <!-- New Delhi -->
 
-<!-- 2022 - 2015 -->
+2022
 
 <!-- ### Punjab Technical University -->
 
@@ -230,12 +225,12 @@ N/A <!-- New Delhi -->
 <!-- 2007 - 2006 -->
 
 ### University of Delhi
-
-*BSc (Hons), Biomedical Sciences*
+ 
+*BSc (Hons), Double major in Biomedical Sciences & Biotechnology*
 
 N/A <!-- New Delhi -->
 
-<!-- 2006 - 2003 -->
+2007
 
 ## Peer-reviewed Publications {data-icon="book"}
 
