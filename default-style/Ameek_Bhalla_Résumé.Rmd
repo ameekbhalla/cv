@@ -197,7 +197,7 @@ N/A <!-- Mumbai (remote) -->
 
 <!-- journals of genetics, molecular biology, and biochemistry  -->
 
--   Revised the text and data visuals of manuscripts to enhance their acceptance by top-tier journals
+-   Revised the plots and data visuals of manuscripts to enhance their acceptance by top-tier journals
 
 ## Education {data-icon="graduation-cap"}
 
