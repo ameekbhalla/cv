@@ -67,8 +67,8 @@ knit: pagedown::chrome_print
 
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
+-   **Multi-omics** <br />            Community Analysis, <br />            composite-based SEM, <br />            scRNA-seq
 -   **Epidemology** <br />            meta-analyses, <br />            RCTs, <br />            case-control studies, <br />            longitudinal studies <br /> 
--   **Genomics** <br />            RNA sequencing, <br />            scRNA-seq
 -   **Quantitative Genetics** <br />            GWAS,  <br />            twin studies
 -   **Population Genetics** <br />            phylogenetic trees, <br />            selection tests
 <!-- -   **Molecular biology** <br />            cloning, <br />            qPCR, <br />            western blotting -->
@@ -103,49 +103,17 @@ Last updated `r Sys.Date()`
 
 <!-- The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. -->
 
-## Experience (Industry) {data-icon="suitcase"}
-
-### Cureus Journal of Medical Science, Springer Nature
-
-*Statistical Editor (Medical Science)*
-
-N/A <!-- Palo Alto (remote) -->
-
-Present - 2020
-
-<!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the rapid-publication medical journal Cureus to make them popular in the medical community-->
-
--   Evaluated the experimental design and statistics of more than 700 manuscripts for the medical journal Cureus
-
-<!-- * Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team -->
-
-<!-- ### Subject Editor (Molecular Biology) -->
-
-### Editage Scientific Editing
-
-*Subject matter expert (Molecular Biology)*
-
-N/A <!-- Mumbai (remote) -->
-
-2020 - 2017
-
-<!-- * Boosted the readability of 300 academic manuscripts written by non-native English speakers (from more than 10 developing countries), enhancing their acceptance by life science journals -->
-
-<!-- journals of genetics, molecular biology, and biochemistry  -->
-
--   Revised the text and data visuals of manuscripts to enhance their acceptance by top-tier journals
-
 ## Experience (Academia) {data-icon="suitcase"}
 
 ### Institute for Systems Biology, Seattle
 
-*Postdoctoral Fellow (Computational Genomics)*
+*Postdoctoral Fellow (Computational Biology)*
 
 N/A <!-- New Delhi -->
 
-Present - 2022
+Present - 2022 <!-- Add context introducing past employers https://youtu.be/NcD3nufvA7Y?si=nX_mriJC8hkO4dZj&t=176 -->
 
-- Analysed single-cell RNA sequencing data from gastric cancer, Lyme, and TB patients to identify cell-specific biomarkers
+- Integrated multi-omic data from patients to identify biomarkers for Lyme disease, gastric cancer, and TB
 
 ### Institute of Genomics and Integrative Biology, New Delhi
 
@@ -197,6 +165,39 @@ N/A <!-- New Delhi -->
 -   Devised classical-conditioning assays to evaluate the effect of candidate genes of Alzheimer's disease on long-term memory in Drosophila
 
 <!-- -   Pioneered a low-cost technique for measuring long-term memory of classical conditioning in Drosophila -->
+
+
+## Experience (Industry) {data-icon="suitcase"}
+
+### Cureus Journal of Medical Science, Springer Nature
+
+*Statistical Editor (Medical Science)*
+
+N/A <!-- Palo Alto (remote) -->
+
+2022 - 2020
+
+<!-- * Critiqued and improved the language, data visuals, and statistical interpretability of 100 systematic meta-reviews, original research articles, and case reports for the rapid-publication medical journal Cureus to make them popular in the medical community-->
+
+-   Evaluated the experimental design and statistics of more than 700 manuscripts for the medical journal Cureus
+
+<!-- * Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team -->
+
+<!-- ### Subject Editor (Molecular Biology) -->
+
+### Editage Scientific Editing
+
+*Subject matter expert (Molecular Biology)*
+
+N/A <!-- Mumbai (remote) -->
+
+2020 - 2017
+
+<!-- * Boosted the readability of 300 academic manuscripts written by non-native English speakers (from more than 10 developing countries), enhancing their acceptance by life science journals -->
+
+<!-- journals of genetics, molecular biology, and biochemistry  -->
+
+-   Revised the text and data visuals of manuscripts to enhance their acceptance by top-tier journals
 
 ## Education {data-icon="graduation-cap"}
 
