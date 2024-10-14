@@ -45,11 +45,11 @@ knit: pagedown::chrome_print
 <!-- |__Dimensionality reduction__| PCA, MDS |   -->
 
 -   **Languages** <br />            R, <br />            Bash, <br />            Markdown
--   **Machine Learning** <br />            regression, <br />            GLMM,
+-   **Machine Learning** <br />            multilevel models,
 <!-- **Decision trees**--><br />            random forest
 -   **Resampling** <br />            cross validation, <br />            bootstrapping, <br />            bagging
--   **Clustering** <br />            k-means, <br />            hierarchical
--   **Dimensionality reduction** <br />            PCA, <br />            tSNE, <br />            UMAP
+-   **Clustering** <br />            k-means, <br />            hierarchical,  <br />            community detection
+-   **Dimensionality reduction** <br />            tSNE, <br />            UMAP, <br />            SEM
 
 <!-- <i class="fa fa-microscope"></i> Lab Research Skills -->
 
@@ -67,8 +67,8 @@ knit: pagedown::chrome_print
 
 <!-- |__Drosophila genetics__| GAL4-UAS system, genetic crossing | -->
 
--   **Multi-omics** <br />            Community Analysis, <br />            composite-based SEM, <br />            scRNA-seq
--   **Epidemology** <br />            meta-analyses, <br />            RCTs, <br />            case-control studies, <br />            longitudinal studies <br /> 
+-   **Multi-omics** <br />            scRNA-seq, <br />            metabolomics, <br />            proteomics (Olink)
+-   **Epidemology** <br />            meta-analyses, <br />            case-control studies, <br />            longitudinal studies <br /> 
 -   **Quantitative Genetics** <br />            GWAS,  <br />            twin studies
 -   **Population Genetics** <br />            phylogenetic trees, <br />            selection tests
 <!-- -   **Molecular biology** <br />            cloning, <br />            qPCR, <br />            western blotting -->
@@ -240,7 +240,7 @@ N/A <!-- New Delhi -->
 <!-- A line break was introduced in the following title to force "with" into the next line  -->
 
 [Phenotypic cross-species conservation and cross-generation directionality switching in epigenetic inheritance](https://doi.org/10.1111/mec.16969)\
-**Bhalla A**, and Sharma A; Molecular Ecology, Epub
+**Bhalla A**, and Sharma A. Mol Ecol. 2023 Jul.
 
 N/A
 
@@ -251,7 +251,7 @@ N/A
 <!-- A line break was introduced in the following title to force "with" into the next line  -->
 
 [Paternal inheritance of diet induced metabolic traits correlates <br /> with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)\
-Teltumbade M, **Bhalla A**, and Sharma A; Genomics, 112:567-573
+Teltumbade M, **Bhalla A**, and Sharma A. Genomics. 2020 Jan.
 
 <!-- Teltumbade M, __Bhalla A__, and Sharma A; [published in *Genomics*](https://doi.org/10.1016/j.ygeno.2019.04.008) -->
 
@@ -262,7 +262,7 @@ N/A
 ### 
 
 [Transgenerational inheritance of cold temperature response in Drosophila](https://doi.org/10.1002/1873-3468.13343)\
-Karunakar P, **Bhalla A**, Sharma A; FEBS Letters, 593:594-600 <!-- Karunakar P, __Bhalla A__, and Sharma A; [published in *FEBS Letters*](https://doi.org/10.1002/1873-3468.13343) -->
+Karunakar P, **Bhalla A**, Sharma A. FEBS Lett. 2019 Mar. <!-- Karunakar P, __Bhalla A__, and Sharma A; [published in *FEBS Letters*](https://doi.org/10.1002/1873-3468.13343) -->
 
 N/A
 
