@@ -11,6 +11,22 @@ output:
 # uncomment following line to produce PDF:
 knit: pagedown::chrome_print
 ---
+<!-- Focus on relevant accomplishments and skills related to the position you seek. -->
+
+<!-- Omit irrelevant items such as full list of publications  -->
+
+<!-- May include mentoring experience section -->
+
+<!-- ——— -->
+<!-- Use following prompts in chatGPT -->
+
+<!-- - "Let me know 5-10 skills based on this description"  -->
+<!-- [make sure to match exact job description: if the JD asks for "flow cytometry", don't write "FACS"]  -->
+
+<!-- - "What is the following cover letter missing" -->
+
+<!-- - Give me interview 8-10 questions based on the description  -->
+
 
 # Aside
 
