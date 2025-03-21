@@ -60,10 +60,10 @@ knit: pagedown::chrome_print
 
 <!-- |__Dimensionality reduction__| PCA, MDS |   -->
 
--   **Languages** <br />            R, <br />            Bash, <br />            Markdown
--   **Machine Learning** <br />            multilevel models,
+-   **Languages & Tools** <br />            R, <br />            Linux/Bash, <br />            Git
+-   **ML & Biostatistics** <br />            GLMs, LASSO,
 <!-- **Decision trees**--><br />            random forest
--   **Resampling** <br />            cross validation, <br />            bootstrapping, <br />            bagging
+-   **Resampling** <br />            cross validation, <br />            Monte Carlo
 -   **Clustering** <br />            k-means, <br />            hierarchical,  <br />            community detection
 -   **Dimensionality reduction** <br />            tSNE, <br />            UMAP, <br />            SEM
 
