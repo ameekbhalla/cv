@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# pagedown HTML output
+*.html
+
+# pagedown asset directories (common naming patterns)
+*_files/
+Signature.jpg
