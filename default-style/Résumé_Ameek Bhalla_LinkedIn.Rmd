@@ -168,7 +168,7 @@ N/A <!-- New Delhi -->
 2022 - 2015 
 
 - Implemented statistical solutions for addressing non-independence of data points in large transcriptomic data, leading to the publication of three research articles.
-_ Designed, executed, and analyzed quantitative genetic experiments, containing 896,000 data points, to infer the heritability of metabolic traits.
+- Designed, executed, and analyzed quantitative genetic experiments, containing 896,000 data points, to infer the heritability of metabolic traits.
 
 ## Experience (Industry) {data-icon="suitcase"}
 
@@ -240,3 +240,14 @@ N/A
 N/A
 
 2023
+
+### 
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+[Paternal inheritance of diet induced metabolic traits correlates with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)\
+Teltumbade M, **Bhalla A**, and Sharma A. Genomics. 2020 Jan.
+
+N/A
+
+2020
