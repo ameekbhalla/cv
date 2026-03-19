@@ -120,7 +120,7 @@ Last updated `r Sys.Date()`
 
 <!-- A line break was introduced in the following title to force "with" into the next line  -->
 
-Integration of large-scale single-cell and multi-omic data to resolve tissue microenvironmental states
+Deep phenotyping of tissue microenvironments using multi-omics data
 
 N/A
 
