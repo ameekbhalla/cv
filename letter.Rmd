@@ -1,0 +1,40 @@
+---
+title: "Cover Letter"
+author: "Ameek Bhalla"
+output:
+  pagedown::html_letter:
+    self_contained: false
+links-to-footnotes: false
+paged-footnotes: false
+knit: pagedown::chrome_print
+---
+
+Ameek Bhalla  
+Institute for Systems Biology\ 
+<br>Seattle, WA 98109  
+Email: bhalla.ameek@gmail.com
+
+`r format(Sys.Date(), "%B %d, %Y")`
+
+Dr. Cyrus Ghajar  
+Fred Hutchinson Cancer Center  
+Seattle, WA  
+
+Dear Dr. Ghajar,\
+My current work as a postdoctoral fellow at the Institute for Systems Biology has centered on integrating high-dimensional human immunology datasets, including single-cell transcriptomic, proteomic, metabolomic, and flow cytometry data, to recover immune microenvironments that are not visible within any single modality. I am now looking to bring that expertise to your lab’s work on the transition from dormancy to metastatic progression in disseminated tumor cells. I have a long-standing interest in the theory and application of evolutionary and phylogenetic reasoning, and have worked on sequence alignment, phylogenetic reconstruction, tests of selection, and quantitative genetics.
+
+I am particularly fascinated by whether dormant and metastatic lineages are mainly relics frozen in history or are instead later sculpted by niche, therapy, or immune pressure, because that distinction seems central to how aggressively patients should be treated at initial diagnosis and screened when in remission. I am interested in how single-cell evolutionary analyses can help resolve these questions and inform clinically meaningful decisions.
+
+Before joining my current lab, I had not worked in single-cell transcriptomics. By focusing on paired sample structure and appropriate normalization strategies, I developed analysis workflows that improved classification of disease states in Lyme disease (now part of a manuscript under review at Nature Medicine). This experience has made me confident about my ability to ramp up quickly and rigorously into adjacent computational domains. I hope to bring the same approach to your lab despite my relative lack of experience with single-cell DNA sequencing.
+
+During my PhD, I generated and processed large-scale Drosophila samples for transcriptomic and small-RNA profiling. In my current lab, I have contributed to mouse histopathology workflows for a type 1 diabetes project, including pancreas sampling and interpretation of immune infiltration across genotypes and disease stages. While these are not examples of cancer evolution per se, they have given me a foundation for working across experimental and analytical components of biological research. I am deliberately seeking a postdoctoral environment where I can deepen the experimental side of my training. Your lab is especially attractive to me because it treats computation and experiment as mutually reinforcing rather than separate tracks.
+
+I would welcome the opportunity to share specific ideas for separating alternative explanations of tumor cell persistence and state transitions.
+
+Sincerely,\
+<img src="Signature.jpg" style="height:50px;"/>
+<br>Ameek Bhalla\
+
+Postdoctoral Fellow\
+Subramanian Lab
+
