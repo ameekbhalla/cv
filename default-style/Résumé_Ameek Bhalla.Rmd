@@ -1,0 +1,263 @@
+---
+title: "Ameek Bhalla Résumé"
+author: Ameek Bhalla
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ["css/custom.css"]
+    self_contained: false
+knit: pagedown::chrome_print
+---
+<!-- Focus on relevant accomplishments and skills related to the position you seek. -->
+
+<!-- Omit irrelevant items such as full list of publications  -->
+
+<!-- May include mentoring experience section -->
+
+<!-- ——— -->
+<!-- Use following prompts in chatGPT -->
+
+<!-- - "Let me know 5-10 skills based on this description"  -->
+<!-- [make sure to match exact job description: if the JD asks for "flow cytometry", don't write "FACS"]  -->
+
+<!-- - "What is the following cover letter missing" -->
+
+<!-- - Give me interview 8-10 questions based on the description  -->
+
+
+# Aside
+
+<!-- ![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
+
+<!-- ## Contact {#contact} -->
+
+<!--.* <i class="fa fa-map-marked-alt"></i> New Delhi, India -->
+
+<i class="fa fa-envelope"></i> [bhalla.ameek\@gmail.com](mailto:bhalla.ameek@gmail.com){.email}\
+<i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla) 
+<!-- - <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla)-->
+<!-- - <i class="fa fa-phone"></i> +91 __________ -->
+<!-- - <i class="fas fa-globe"></i> [ameekbhalla.netlify.app](https://ameekbhalla.netlify.app) -->
+
+## <i class="fa fa-laptop"></i> Data Science Skills {data-icon="laptop"}
+
+**1. Single-cell analysis**  
+    • Integration (Seurat)  
+    • Pseudobulk (DESeq2)  
+    • Cell annotation (SingleR)  
+
+**2. Evolutionary analysis**  
+    • Phylogenetic reconstruction  
+    • Tests of selection  
+
+**3. Multi-omics integration**  
+    • PCA, t-SNE, UMAP  
+    • Network analysis  
+    • Factor analysis (MOFA2)  
+
+**4. Statistical modeling & ML**  
+    • Regularized GLMs  
+    • Mixed models (lme4)  
+    • Survival analysis (Cox, Weibull)  
+
+**5. Languages & tools**  
+    • R  
+    • Linux/Bash  
+    • Git  
+
+## <i class="fa fa-users"></i> Human multi-omics
+
+ • 100 patients, 4 time points  
+ • scRNA-seq: 42,000 PBMCs  
+ • Plasma proteomics: 460 proteins  
+ • Metabolomics: 1,244 metabolites  
+ • Flow cytometry: 41 cell types  
+
+## <i class="fa-solid fa-flask"></i> Experimental skills
+
+**1. Mol bio & Transcriptomics**  
+    • Bulk RNA-seq  
+    • Cloning  
+    • qPCR  
+    • Western blotting  
+
+**2. Experimental design**  
+    • Repeated measures  
+    • Factorial designs  
+    • Pseudoreplication control  
+
+<!-- 4. Genetic systems -->
+<!-- • Drosophila crosses -->
+<!-- • GAL4-UAS system -->
+
+<!-- -   **Epidemology** <br />            meta-analyses, <br />            case-control studies, <br />            longitudinal studies <br />  -->
+<!-- -   **Quantitative Genetics** <br />            GWAS,  <br />            twin studies -->
+
+<!-- Interests {data-icon=pencil-ruler} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- __Popular science__: evolutionary biology, personality psychology -->
+
+<!-- __Philosophy__: critical rationalism -->
+
+<!-- __Communication__: clear writing, data visualization -->
+
+## Disclaimer {#disclaimer}
+
+<!-- Résumé  -->
+
+Built with <i class="fab fa-r-project"></i>\
+<!-- [Source code on GitHub](https://github.com/ameekbhalla/cv)\ -->
+Last updated `r Sys.Date()`
+
+# Main
+
+## Ameek Bhalla {#title}
+
+## Research Profile {data-icon="id-card"}
+
+### 
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+Expertise: single-cell analysis, multi-omics, and AI/ML.
+
+N/A
+
+N/A
+
+### 
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+Current focus: human disease biology and biomarker discovery.
+
+N/A
+
+N/A
+
+### 
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+Broad interests: quantitative genomics and precision medicine.
+
+N/A
+
+N/A
+
+## Experience (Academia) {data-icon="suitcase"}
+
+### Institute for Systems Biology, Seattle
+
+*Postdoctoral Fellow (Computational Biology)*
+
+N/A <!-- New Delhi -->
+
+Present - 2022 <!-- Add context introducing past employers https://youtu.be/NcD3nufvA7Y?si=nX_mriJC8hkO4dZj&t=176 -->
+
+- Developed and validated models to diagnose Lyme disease using deep-phenotyping data.
+- Integrated scRNA-seq, proteomics, metabolomics, and flow cytometry data from a human cohort to enable deep phenotyping of Lyme disease.  
+
+### Institute of Genomics and Integrative Biology, New Delhi
+
+*Graduate Research Assistant (Computational Genomics)*
+
+N/A <!-- New Delhi -->
+
+2022 - 2015 
+
+- Implemented statistical pipelines for large-scale transcriptomic analyses that contributed to three research publications.
+- Designed and executed experiments to generate large-scale data to infer the heritability of metabolic traits in animal models.
+
+## Experience (Industry) {data-icon="suitcase"}
+
+### Cureus Journal of Medical Science, Springer Nature
+
+*Statistical Editor (Medical Science)*
+
+N/A <!-- Palo Alto (remote) -->
+
+2022 - 2020
+
+- Evaluated study design, statistical analysis, and reporting rigor in more than 700 medical manuscripts for Cureus.
+
+### Editage
+
+*Freelance consultant: scientific reporting*
+
+N/A <!-- Palo Alto (remote) -->
+
+2020 - 2019
+
+- Helped researchers communicate methods, results, and limitations clearly for publication and present figures effectively.
+
+
+## Education {data-icon="graduation-cap"}
+
+### Institute of Genomics and Integrative Biology, New Delhi
+
+*PhD in Computational Biology*
+
+N/A <!-- New Delhi -->
+
+2022
+
+<!-- ### Punjab Technical University -->
+
+<!-- MSc, Biotechnology -->
+
+<!-- New Delhi, India -->
+
+<!-- 2013 -->
+
+<!-- ### University of Delhi -->
+
+<!-- *Postgraduate Diploma, Biochemical Technology* -->
+
+<!-- N/A <!-- New Delhi -->
+
+<!-- 2007 - 2006 -->
+
+### University of Delhi
+ 
+*BSc (Hons), double major in Biomedical Sciences & Biotechnology*
+
+N/A <!-- New Delhi -->
+
+2007
+
+## Selected Publications {data-icon="book"}
+
+### 
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+[Multiomics Reveals Compartmentalized Immune Responses and Tissue-Vascular Signatures in Lyme Disease](https://doi.org/10.1101/2025.05.27.656061)\
+Rostomily C, **Bhalla A**, et al. bioRxiv. 2025. Under review.
+
+N/A
+
+2025
+
+### 
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+[Phenotypic cross-species conservation and cross-generation directionality switching in epigenetic inheritance](https://doi.org/10.1111/mec.16969)\
+**Bhalla A**, and Sharma A. Mol Ecol. 2023 Jul.
+
+N/A
+
+2023
+
+### 
+
+<!-- A line break was introduced in the following title to force "with" into the next line  -->
+
+[Paternal inheritance of diet induced metabolic traits correlates with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)\
+Teltumbade M, **Bhalla A**, and Sharma A. Genomics. 2020 Jan.
+
+N/A
+
+2020
