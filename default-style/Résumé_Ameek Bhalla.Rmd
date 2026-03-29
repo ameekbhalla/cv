@@ -14,7 +14,7 @@ knit: pagedown::chrome_print
 
 <!-- May include mentoring experience section -->
 
-<!-- ——— -->
+<!-- --- -->
 <!-- Use following prompts in chatGPT -->
 
 <!-- - "Let me know 5-10 skills based on this description"  -->
@@ -34,64 +34,68 @@ knit: pagedown::chrome_print
 <!--.* <i class="fa fa-map-marked-alt"></i> New Delhi, India -->
 
 <i class="fa fa-envelope"></i> [bhalla.ameek\@gmail.com](mailto:bhalla.ameek@gmail.com){.email}\
-<i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla) 
+<i class="fa fa-linkedin"></i> [linkedin.com/in/ameekbhalla](https://linkedin.com/in/ameekbhalla)
 <!-- - <i class="fa fa-github"></i> [github.com/ameekbhalla](https://github.com/ameekbhalla)-->
 <!-- - <i class="fa fa-phone"></i> +91 __________ -->
 <!-- - <i class="fas fa-globe"></i> [ameekbhalla.netlify.app](https://ameekbhalla.netlify.app) -->
 
 ## <i class="fa fa-laptop"></i> Data Science Skills {data-icon="laptop"}
 
-**1. Single-cell analysis**  
-    • Integration (Seurat)  
-    • Pseudobulk (DESeq2)  
-    • Cell annotation (SingleR)  
+Single-cell analysis
 
-**2. Evolutionary analysis**  
-    • Phylogenetic reconstruction  
-    • Tests of selection  
+- Integration (Seurat)
+- Pseudobulk (DESeq2)
+- Cell annotation (SingleR)
 
-**3. Multi-omics integration**  
-    • PCA, t-SNE, UMAP  
-    • Network analysis  
-    • Factor analysis (MOFA2)  
+Evolutionary analysis
 
-**4. Statistical modeling & ML**  
-    • Regularized GLMs  
-    • Mixed models (lme4)  
-    • Survival analysis (Cox, Weibull)  
+- Phylogenetic reconstruction
+- Tests of selection
 
-**5. Languages & tools**  
-    • R  
-    • Linux/Bash  
-    • Git  
+Multi-omics integration
+
+- PCA, t-SNE, UMAP
+- Network analysis
+- Factor analysis (MOFA2)
+
+Statistical modeling and ML
+
+- Regularized GLMs
+- Mixed models (lme4)
+- Survival analysis (Cox, Weibull)
+
+Languages and tools
+
+- R
+- Linux/Bash
+- Git
 
 ## <i class="fa fa-users"></i> Human multi-omics
 
- • 100 patients, 4 time points  
- • scRNA-seq: 42,000 PBMCs  
- • Plasma proteomics: 460 proteins  
- • Metabolomics: 1,244 metabolites  
- • Flow cytometry: 41 cell types  
+- 100 patients, 4 time points
+- scRNA-seq: 42,000 PBMCs
+- Plasma proteomics: 460 proteins
+- Metabolomics: 1,244 metabolites
+- Flow cytometry: 41 cell types
 
 ## <i class="fa-solid fa-flask"></i> Experimental skills
 
-**1. Mol bio & Transcriptomics**  
-    • Bulk RNA-seq  
-    • Cloning  
-    • qPCR  
-    • Western blotting  
+Molecular biology and transcriptomics
 
-**2. Experimental design**  
-    • Repeated measures  
-    • Factorial designs  
-    • Pseudoreplication control  
+- Bulk RNA-seq
+- Cloning
+- qPCR
+- Western blotting
+
+Experimental design
+
+- Repeated measures
+- Factorial designs
+- Pseudoreplication control
 
 <!-- 4. Genetic systems -->
-<!-- • Drosophila crosses -->
-<!-- • GAL4-UAS system -->
-
-<!-- -   **Epidemology** <br />            meta-analyses, <br />            case-control studies, <br />            longitudinal studies <br />  -->
-<!-- -   **Quantitative Genetics** <br />            GWAS,  <br />            twin studies -->
+<!-- - Drosophila crosses -->
+<!-- - GAL4-UAS system -->
 
 <!-- Interests {data-icon=pencil-ruler} -->
 <!-- -------------------------------------------------------------------------------- -->
@@ -114,77 +118,51 @@ Last updated `r Sys.Date()`
 
 ## Ameek Bhalla {#title}
 
-## Research Profile {data-icon="id-card"}
+## Researcher Profile {#research-profile data-icon="id-card"}
 
-### 
-
-<!-- A line break was introduced in the following title to force "with" into the next line  -->
-
-Expertise: single-cell analysis, multi-omics, and AI/ML.
-
-N/A
-
-N/A
-
-### 
-
-<!-- A line break was introduced in the following title to force "with" into the next line  -->
-
-Current focus: human disease biology and biomarker discovery.
-
-N/A
-
-N/A
-
-### 
-
-<!-- A line break was introduced in the following title to force "with" into the next line  -->
-
-Broad interests: quantitative genomics and precision medicine.
-
-N/A
-
-N/A
+- Expertise: single-cell analysis, multi-omics, and AI/ML.
+- Current focus: human disease biology and biomarker discovery.
+- Broad interests: quantitative genomics and precision medicine.
 
 ## Experience (Academia) {data-icon="suitcase"}
 
 ### Institute for Systems Biology, Seattle
 
-*Postdoctoral Fellow (Computational Biology)*
+Postdoctoral Fellow (Computational Biology)
 
 N/A <!-- New Delhi -->
 
 Present - 2022 <!-- Add context introducing past employers https://youtu.be/NcD3nufvA7Y?si=nX_mriJC8hkO4dZj&t=176 -->
 
 - Developed and validated models to diagnose Lyme disease using deep-phenotyping data.
-- Integrated scRNA-seq, proteomics, metabolomics, and flow cytometry data from a human cohort to enable deep phenotyping of Lyme disease.  
+- Integrated scRNA-seq, proteomics, metabolomics, and flow cytometry data from a human cohort to enable deep phenotyping of Lyme disease.
 
 ### Institute of Genomics and Integrative Biology, New Delhi
 
-*Graduate Research Assistant (Computational Genomics)*
+Graduate Research Assistant (Computational Genomics)
 
 N/A <!-- New Delhi -->
 
-2022 - 2015 
+2022 - 2015
 
 - Implemented statistical pipelines for large-scale transcriptomic analyses that contributed to three research publications.
-- Designed and executed experiments to generate large-scale data to infer the heritability of metabolic traits in animal models.
+- Designed experiments to estimate the heritability of metabolic traits in animal models.
 
 ## Experience (Industry) {data-icon="suitcase"}
 
 ### Cureus Journal of Medical Science, Springer Nature
 
-*Statistical Editor (Medical Science)*
+Statistical Editor (Medical Science)
 
 N/A <!-- Palo Alto (remote) -->
 
 2022 - 2020
 
-- Evaluated study design, statistical analysis, and reporting rigor in more than 700 medical manuscripts for Cureus.
+- Reviewed study design, statistical analysis, and reporting rigor in more than 700 medical manuscripts for Cureus.
 
 ### Editage
 
-*Freelance consultant: scientific reporting*
+Freelance consultant: scientific reporting
 
 N/A <!-- Palo Alto (remote) -->
 
@@ -197,7 +175,7 @@ N/A <!-- Palo Alto (remote) -->
 
 ### Institute of Genomics and Integrative Biology, New Delhi
 
-*PhD in Computational Biology*
+PhD in Computational Biology
 
 N/A <!-- New Delhi -->
 
@@ -220,8 +198,8 @@ N/A <!-- New Delhi -->
 <!-- 2007 - 2006 -->
 
 ### University of Delhi
- 
-*BSc (Hons), double major in Biomedical Sciences & Biotechnology*
+
+BSc (Hons), double major in Biomedical Sciences and Biotechnology
 
 N/A <!-- New Delhi -->
 
@@ -229,34 +207,25 @@ N/A <!-- New Delhi -->
 
 ## Selected Publications {data-icon="book"}
 
-### 
+### Rostomily C, <span class="author-self">Bhalla A</span>, et al. bioRxiv. Under review.
 
-<!-- A line break was introduced in the following title to force "with" into the next line  -->
-
-[Multiomics Reveals Compartmentalized Immune Responses and Tissue-Vascular Signatures in Lyme Disease](https://doi.org/10.1101/2025.05.27.656061)\
-Rostomily C, **Bhalla A**, et al. bioRxiv. 2025. Under review.
+[Multiomics Reveals Compartmentalized Immune Responses and Tissue-Vascular Signatures in Lyme Disease](https://doi.org/10.1101/2025.05.27.656061)
 
 N/A
 
 2025
 
-### 
+### <span class="author-self">Bhalla A</span> and Sharma A. Mol Ecol.
 
-<!-- A line break was introduced in the following title to force "with" into the next line  -->
-
-[Phenotypic cross-species conservation and cross-generation directionality switching in epigenetic inheritance](https://doi.org/10.1111/mec.16969)\
-**Bhalla A**, and Sharma A. Mol Ecol. 2023 Jul.
+[Phenotypic cross-species conservation and cross-generation directionality switching in epigenetic inheritance](https://doi.org/10.1111/mec.16969)
 
 N/A
 
 2023
 
-### 
+### Teltumbade M, <span class="author-self">Bhalla A</span>, and Sharma A. Genomics.
 
-<!-- A line break was introduced in the following title to force "with" into the next line  -->
-
-[Paternal inheritance of diet induced metabolic traits correlates with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)\
-Teltumbade M, **Bhalla A**, and Sharma A. Genomics. 2020 Jan.
+[Paternal inheritance of diet induced metabolic traits correlates with germline regulation of diet induced coding gene expression](https://doi.org/10.1016/j.ygeno.2019.04.008)
 
 N/A
 
