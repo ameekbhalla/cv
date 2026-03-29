@@ -75,7 +75,7 @@ knit: pagedown::chrome_print
 
 ## <i class="fa-solid fa-flask"></i> Experimental skills
 
-**1. Mol Bio & Trancriptomics**  
+**1. Mol bio & Transcriptomics**  
     • Bulk RNA-seq  
     • Cloning  
     • qPCR  
@@ -106,7 +106,7 @@ knit: pagedown::chrome_print
 
 <!-- Résumé  -->
 
-Written in <i class="fab fa-r-project"></i>\
+Built with <i class="fab fa-r-project"></i>\
 <!-- [Source code on GitHub](https://github.com/ameekbhalla/cv)\ -->
 Last updated `r Sys.Date()`
 
@@ -120,7 +120,7 @@ Last updated `r Sys.Date()`
 
 <!-- A line break was introduced in the following title to force "with" into the next line  -->
 
-Integration of large-scale multi-omic data to resolve tissue microenvironmental states that shape disseminated tumor cell fate
+Expertise: integration of large-scale multi-omic data to resolve tissue microenvironmental states.
 
 N/A
 
@@ -130,7 +130,7 @@ N/A
 
 <!-- A line break was introduced in the following title to force "with" into the next line  -->
 
-Quantitative genetics of complex traits and disease susceptibility
+Current focus: human disease biology and biomarker discovery.
 
 N/A
 
@@ -140,7 +140,7 @@ N/A
 
 <!-- A line break was introduced in the following title to force "with" into the next line  -->
 
-Phylogenetic and evolutionary approaches to understanding cancer progression and treatment resistance
+Broad interests: phylogenetic and evolutionary approaches for precision medicine.
 
 N/A
 
@@ -156,8 +156,8 @@ N/A <!-- New Delhi -->
 
 Present - 2022 <!-- Add context introducing past employers https://youtu.be/NcD3nufvA7Y?si=nX_mriJC8hkO4dZj&t=176 -->
 
-- Integrated scRNA-seq, proteomic, metabolomic, and flow cytometry data from a human cohort to test hypotheses of Lyme disease pathogenesis.  
-- Built and validated classification models in R for diagnosing Lyme disease based on immune signatures.  
+- Integrated scRNA-seq, proteomics, metabolomics, and flow cytometry data from a human cohort to enable deep phenotyping of Lyme disease.  
+- Developed and validated models to diagnose Lyme disease using deep-phenotyping data.  
 - Contributed to pancreas histopathology workflows in T1D mice, including genotype- and stage-stratified sampling, and interpretation of immune infiltration.  
 
 ### Institute of Genomics and Integrative Biology, New Delhi
@@ -170,7 +170,7 @@ N/A <!-- New Delhi -->
 
 - Collected and processed multigenerational Drosophila samples for microRNA and transcriptomic profiling.
 - Performed comparative quantitative genetic analyses of transcriptomic and small-RNA datasets to estimate the heritability of metabolic traits.
-- Developed statistical approaches for addressing non-independence and cross-generational structure, contributing to three research articles.
+- Implemented statistical pipelines for large-scale transcriptomic analyses that contributed to three research publications.
 
 ## Experience (Industry) {data-icon="suitcase"}
 
